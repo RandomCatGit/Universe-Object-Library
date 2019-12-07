@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Rubidium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Rubidium
@@ -30,7 +31,7 @@ public class Rubidium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Rubidium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(37, 37, 37), "Rb", (byte) 37, 85.468f);
+		super(new Atom(37, 37, 37), "Rb", (byte) 37, 85.468f, (byte) 1);
 	}
 
 }

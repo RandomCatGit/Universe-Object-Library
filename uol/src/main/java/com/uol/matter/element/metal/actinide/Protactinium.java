@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Protactinium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Protactinium
@@ -30,7 +31,7 @@ public class Protactinium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Protactinium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(91, 91, 91), "Pa", (byte) 91, 231.04f);
+		super(new Atom(91, 91, 91), "Pa", (byte) 91, 231.04f, (byte) 5);
 	}
 
 }

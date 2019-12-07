@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Lutetium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Lutetium
@@ -30,7 +31,7 @@ public class Lutetium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Lutetium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(71, 71, 71), "Lu", (byte) 71, 174.97f);
+		super(new Atom(71, 71, 71), "Lu", (byte) 71, 174.97f, (byte) 3);
 	}
 
 }

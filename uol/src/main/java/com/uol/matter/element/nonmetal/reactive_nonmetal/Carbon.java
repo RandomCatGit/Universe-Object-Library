@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Carbon extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Carbon
@@ -30,7 +31,7 @@ public class Carbon extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Carbon() throws InstantiationException, IllegalAccessException {
-		super(new Atom(6, 6, 6), "C", (byte) 6, 12.011f);
+		super(new Atom(6, 6, 6), "C", (byte) 6, 12.011f, (byte) 4);
 	}
 
 }

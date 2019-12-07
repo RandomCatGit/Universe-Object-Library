@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Caesium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Caesium
@@ -30,7 +31,7 @@ public class Caesium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Caesium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(55, 55, 55), "Cs", (byte) 55, 132.91f);
+		super(new Atom(55, 55, 55), "Cs", (byte) 55, 132.91f, (byte) 1);
 	}
 
 }

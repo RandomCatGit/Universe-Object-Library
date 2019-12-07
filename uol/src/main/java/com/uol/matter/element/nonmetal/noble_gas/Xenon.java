@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Xenon extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Xenon
@@ -30,7 +31,7 @@ public class Xenon extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Xenon() throws InstantiationException, IllegalAccessException {
-		super(new Atom(54, 54, 54), "Xe", (byte) 54, 131.29f);
+		super(new Atom(54, 54, 54), "Xe", (byte) 54, 131.29f, (byte) 0);
 	}
 
 }

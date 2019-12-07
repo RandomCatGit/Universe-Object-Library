@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Calcium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Calcium
@@ -30,7 +31,7 @@ public class Calcium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Calcium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(20, 20, 20), "Ca", (byte) 20, 40.078f);
+		super(new Atom(20, 20, 20), "Ca", (byte) 20, 40.078f, (byte) 2);
 	}
 
 }

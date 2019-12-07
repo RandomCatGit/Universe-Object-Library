@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Copper extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Copper
@@ -30,7 +31,7 @@ public class Copper extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Copper() throws InstantiationException, IllegalAccessException {
-		super(new Atom(29, 29, 29), "Cu", (byte) 29, 63.546f);
+		super(new Atom(29, 29, 29), "Cu", (byte) 29, 63.546f, (byte) 2);
 	}
 
 }

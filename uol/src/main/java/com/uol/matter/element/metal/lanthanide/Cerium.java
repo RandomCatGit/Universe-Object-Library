@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Cerium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Cerium
@@ -30,7 +31,7 @@ public class Cerium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Cerium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(58, 58, 58), "Ce", (byte) 58, 140.12f);
+		super(new Atom(58, 58, 58), "Ce", (byte) 58, 140.12f, (byte) 4);
 	}
 
 }

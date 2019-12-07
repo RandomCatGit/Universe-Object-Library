@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Strontium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Strontium
@@ -30,7 +31,7 @@ public class Strontium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Strontium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(38, 38, 38), "Sr", (byte) 38, 87.62f);
+		super(new Atom(38, 38, 38), "Sr", (byte) 38, 87.62f, (byte) 2);
 	}
 
 }

@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Oxygen extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Oxygen
@@ -30,7 +31,7 @@ public class Oxygen extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Oxygen() throws InstantiationException, IllegalAccessException {
-		super(new Atom(8, 8, 8), "O", (byte) 8, 15.999f);
+		super(new Atom(8, 8, 8), "O", (byte) 8, 15.999f, (byte) 2);
 	}
 
 }

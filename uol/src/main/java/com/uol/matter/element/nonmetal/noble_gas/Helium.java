@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Helium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Helium
@@ -30,7 +31,7 @@ public class Helium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Helium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(2, 2, 2), "He", (byte) 2, 4.0026f);
+		super(new Atom(2, 2, 2), "He", (byte) 2, 4.0026f, (byte) 0);
 	}
 
 }

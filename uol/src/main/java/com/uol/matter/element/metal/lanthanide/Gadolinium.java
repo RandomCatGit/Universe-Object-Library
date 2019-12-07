@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Gadolinium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Gadolinium
@@ -30,7 +31,7 @@ public class Gadolinium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Gadolinium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(64, 64, 64), "Gd", (byte) 64, 157.25f);
+		super(new Atom(64, 64, 64), "Gd", (byte) 64, 157.25f, (byte) 3);
 	}
 
 }

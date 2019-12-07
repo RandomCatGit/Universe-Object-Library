@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Nitrogen extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Nitrogen
@@ -30,7 +31,7 @@ public class Nitrogen extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Nitrogen() throws InstantiationException, IllegalAccessException {
-		super(new Atom(7, 7, 7), "N", (byte) 7, 14.007f);
+		super(new Atom(7, 7, 7), "N", (byte) 7, 14.007f, (byte) 3);
 	}
 
 }

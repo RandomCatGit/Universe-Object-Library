@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Zinc extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Zinc
@@ -30,7 +31,7 @@ public class Zinc extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Zinc() throws InstantiationException, IllegalAccessException {
-		super(new Atom(30, 30, 30), "Zn", (byte) 30, 65.38f);
+		super(new Atom(30, 30, 30), "Zn", (byte) 30, 65.38f, (byte) 2);
 	}
 
 }

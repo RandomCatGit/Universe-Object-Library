@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Titanium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Titanium
@@ -30,7 +31,7 @@ public class Titanium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Titanium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(22, 22, 22), "Ti", (byte) 22, 47.867f);
+		super(new Atom(22, 22, 22), "Ti", (byte) 22, 47.867f, (byte) 4);
 	}
 
 }

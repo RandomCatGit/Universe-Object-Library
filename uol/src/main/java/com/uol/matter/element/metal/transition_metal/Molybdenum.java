@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Molybdenum extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Molybdenum
@@ -30,7 +31,7 @@ public class Molybdenum extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Molybdenum() throws InstantiationException, IllegalAccessException {
-		super(new Atom(42, 42, 42), "Mo", (byte) 42, 95.95f);
+		super(new Atom(42, 42, 42), "Mo", (byte) 42, 95.95f, (byte) 6);
 	}
 
 }

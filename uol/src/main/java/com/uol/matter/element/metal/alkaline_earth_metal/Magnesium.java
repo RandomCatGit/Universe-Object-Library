@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Magnesium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Magnesium
@@ -30,7 +31,7 @@ public class Magnesium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Magnesium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(12, 12, 12), "Mg", (byte) 12, 24.305f);
+		super(new Atom(12, 12, 12), "Mg", (byte) 12, 24.305f, (byte) 2);
 	}
 
 }

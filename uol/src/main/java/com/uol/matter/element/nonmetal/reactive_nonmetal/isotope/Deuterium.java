@@ -21,7 +21,7 @@ public class Deuterium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Deuterium
@@ -30,7 +30,7 @@ public class Deuterium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Deuterium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(1, 1, 1), "D", (byte) 1, 2.01410178f);
+		super(new Atom(1, 1, 1), "D", (byte) 1, 2.01410178f, (byte) 1);
 	}
 
 }

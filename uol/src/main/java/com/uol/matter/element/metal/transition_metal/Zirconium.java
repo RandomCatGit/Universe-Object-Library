@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Zirconium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Zirconium
@@ -30,7 +31,7 @@ public class Zirconium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Zirconium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(40, 40, 40), "Zr", (byte) 40, 91.224f);
+		super(new Atom(40, 40, 40), "Zr", (byte) 40, 91.224f, (byte) 4);
 	}
 
 }

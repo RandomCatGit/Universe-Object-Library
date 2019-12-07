@@ -21,7 +21,7 @@ public class Tritium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Tritium
@@ -30,7 +30,7 @@ public class Tritium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Tritium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(1, 2, 1), "T", (byte) 1, 3.0160492f);
+		super(new Atom(1, 2, 1), "T", (byte) 1, 3.0160492f, (byte) 1);
 	}
 
 }
