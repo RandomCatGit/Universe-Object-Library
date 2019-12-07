@@ -6,16 +6,16 @@ This repository will be the first open source, widely-cited, anyone-can-contribu
 
 Feel free to check out the rules and add your contributon to the Javaverse!
 
-[Check out the Javaverse Wiki!](https://github.com/RandomCatGit/javaverse/wiki)
+[Check out the Universe Object Library Wiki!](https://github.com/RandomCatGit/Universe-Object-Library/wiki)
 
 Last updated: 18/05/2019
 
 Current RWO/RWP Count: 2890
 
-Current Javaverse Tree:
+Current Universe Object Library Tree:
 
 <pre>
-javaverse
+uol
   ├─matter
   │   ├─atomic_particle
   │   │   └─subatomic_particle
