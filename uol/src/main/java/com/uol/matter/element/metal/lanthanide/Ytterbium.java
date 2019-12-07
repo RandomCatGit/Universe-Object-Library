@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Ytterbium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Ytterbium
@@ -30,7 +31,7 @@ public class Ytterbium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Ytterbium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(70, 70, 70), "Yb", (byte) 70, 173.05f);
+		super(new Atom(70, 70, 70), "Yb", (byte) 70, 173.05f, (byte) 3);
 	}
 
 }

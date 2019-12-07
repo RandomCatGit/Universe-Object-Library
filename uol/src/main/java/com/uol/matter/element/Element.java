@@ -15,6 +15,7 @@ import lombok.Setter;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWP								1/9/2018
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -31,7 +32,7 @@ public class Element extends UniverseObjectLibrary {
 	/**
 	 * serialVersionUID for RWP Element
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * atomicStructure provides atomic elements within the atom.
@@ -53,4 +54,8 @@ public class Element extends UniverseObjectLibrary {
 	 */
 	private float atomicMass;
 
+	/**
+	 * valence is the atomic valence of the element.
+	 */
+	private byte valence;
 }

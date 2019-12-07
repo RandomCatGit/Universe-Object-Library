@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Vanadium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Vanadium
@@ -30,7 +31,7 @@ public class Vanadium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Vanadium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(23, 23, 23), "V", (byte) 23, 50.942f);
+		super(new Atom(23, 23, 23), "V", (byte) 23, 50.942f, (byte) 5);
 	}
 
 }

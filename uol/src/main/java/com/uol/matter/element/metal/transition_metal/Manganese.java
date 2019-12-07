@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Manganese extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Manganese
@@ -30,7 +31,7 @@ public class Manganese extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Manganese() throws InstantiationException, IllegalAccessException {
-		super(new Atom(25, 25, 25), "Mn", (byte) 25, 54.938f);
+		super(new Atom(25, 25, 25), "Mn", (byte) 25, 54.938f, (byte) 4);
 	}
 
 }

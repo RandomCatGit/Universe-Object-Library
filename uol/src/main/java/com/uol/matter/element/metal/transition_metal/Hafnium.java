@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Hafnium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Hafnium
@@ -30,7 +31,7 @@ public class Hafnium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Hafnium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(72, 72, 72), "Hf", (byte) 72, 178.49f);
+		super(new Atom(72, 72, 72), "Hf", (byte) 72, 178.49f, (byte) 4);
 	}
 
 }

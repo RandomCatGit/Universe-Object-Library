@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Phosphorus extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Phosphorus
@@ -30,7 +31,7 @@ public class Phosphorus extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Phosphorus() throws InstantiationException, IllegalAccessException {
-		super(new Atom(15, 15, 15), "P", (byte) 15, 30.974f);
+		super(new Atom(15, 15, 15), "P", (byte) 15, 30.974f, (byte) 5);
 	}
 
 }

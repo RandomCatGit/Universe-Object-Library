@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Bohrium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Bohrium
@@ -30,7 +31,7 @@ public class Bohrium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Bohrium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(107, 107, 107), "Bh", (byte) 107, 270f);
+		super(new Atom(107, 107, 107), "Bh", (byte) 107, 270f, (byte) 7);
 	}
 
 }

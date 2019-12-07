@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Boron extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Boron
@@ -30,7 +31,7 @@ public class Boron extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Boron() throws InstantiationException, IllegalAccessException {
-		super(new Atom(5, 5, 5), "B", (byte) 5, 10.81f);
+		super(new Atom(5, 5, 5), "B", (byte) 5, 10.81f, (byte) 3);
 	}
 
 }

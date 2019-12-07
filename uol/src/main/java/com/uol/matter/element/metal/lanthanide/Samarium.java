@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Samarium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Samarium
@@ -30,7 +31,7 @@ public class Samarium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Samarium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(62, 62, 62), "Sm", (byte) 62, 150.36f);
+		super(new Atom(62, 62, 62), "Sm", (byte) 62, 150.36f, (byte) 3);
 	}
 
 }

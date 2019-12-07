@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Yttrium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Yttrium
@@ -30,7 +31,7 @@ public class Yttrium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Yttrium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(39, 39, 39), "Y", (byte) 39, 88.906f);
+		super(new Atom(39, 39, 39), "Y", (byte) 39, 88.906f, (byte) 3);
 	}
 
 }

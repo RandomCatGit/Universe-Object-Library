@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Iodine extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Iodine
@@ -30,7 +31,7 @@ public class Iodine extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Iodine() throws InstantiationException, IllegalAccessException {
-		super(new Atom(53, 53, 53), "I", (byte) 53, 126.9f);
+		super(new Atom(53, 53, 53), "I", (byte) 53, 126.9f, (byte) 7);
 	}
 
 }

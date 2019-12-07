@@ -9,6 +9,7 @@ import com.uol.matter.element.Element;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
+ * RandomCatGit					Added valence property					29/11/2019
  */
 
 /**
@@ -21,7 +22,7 @@ public class Indium extends Element {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO Indium
@@ -30,7 +31,7 @@ public class Indium extends Element {
 	 * @throws IllegalAccessException
 	 */
 	public Indium() throws InstantiationException, IllegalAccessException {
-		super(new Atom(49, 49, 49), "In", (byte) 49, 114.82f);
+		super(new Atom(49, 49, 49), "In", (byte) 49, 114.82f, (byte) 3);
 	}
 
 }
