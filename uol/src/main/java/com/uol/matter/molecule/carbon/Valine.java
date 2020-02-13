@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Valine is the RWO for the molecule valine .
+ * Valine is the RWO for the molecule Valine with the CAS number 660-88-8.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Valine extends Molecule {
 	 * Default constructor of RWO Valine
 	 */
 	public Valine() {
-		super("C5H11NO2", "");
+		super("C5H11NO2", "660-88-8");
 	}
 
 }

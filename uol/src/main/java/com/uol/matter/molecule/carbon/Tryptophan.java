@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Tryptophan is the RWO for the molecule tryptophan .
+ * Tryptophan is the RWO for the molecule Tryptophan with the CAS number 73-22-3.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Tryptophan extends Molecule {
 	 * Default constructor of RWO Tryptophan
 	 */
 	public Tryptophan() {
-		super("C11H12N2O2", "");
+		super("C11H12N2O2", "73-22-3");
 	}
 
 }

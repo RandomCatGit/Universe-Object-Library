@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Threonine is the RWO for the molecule threonine .
+ * Threonine is the RWO for the molecule Threonine with the CAS number 72-19-5.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Threonine extends Molecule {
 	 * Default constructor of RWO Threonine
 	 */
 	public Threonine() {
-		super("C4H9NO3", "");
+		super("C4H9NO3", "72-19-5");
 	}
 
 }

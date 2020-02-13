@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Tyrosine is the RWO for the molecule tyrosine .
+ * Tyrosine is the RWO for the molecule Tyrosine with the CAS number 31330-59-3.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Tyrosine extends Molecule {
 	 * Default constructor of RWO Tyrosine
 	 */
 	public Tyrosine() {
-		super("C9H11NO3", "");
+		super("C9H11NO3", "31330-59-3");
 	}
 
 }

@@ -26,7 +26,7 @@ public class Nitrogen_II_Oxide extends Molecule {
 	 * Default constructor of RWO Nitrogen_II_Oxide
 	 */
 	public Nitrogen_II_Oxide() {
-		super("nitrogen(II) oxide", "");
+		super("NO", "");
 	}
 
 }

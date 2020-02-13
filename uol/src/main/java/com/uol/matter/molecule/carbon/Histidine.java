@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Histidine is the RWO for the molecule histidine .
+ * Histidine is the RWO for the molecule Histidine with the CAS number 71-00-1.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Histidine extends Molecule {
 	 * Default constructor of RWO Histidine
 	 */
 	public Histidine() {
-		super("C6H9N3O2", "");
+		super("C6H9N3O2", "71-00-1");
 	}
 
 }
