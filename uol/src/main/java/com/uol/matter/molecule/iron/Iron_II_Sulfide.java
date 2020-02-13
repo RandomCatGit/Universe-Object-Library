@@ -26,7 +26,7 @@ public class Iron_II_Sulfide extends Molecule {
 	 * Default constructor of RWO Iron_II_Sulfide
 	 */
 	public Iron_II_Sulfide() {
-		super("iron(II) sulfide", "1317-96-0");
+		super("FeS", "1317-96-0");
 	}
 
 }

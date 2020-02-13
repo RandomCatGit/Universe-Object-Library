@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * GlutamicAcid is the RWO for the molecule glutamic acid .
+ * GlutamicAcid is the RWO for the molecule GlutamicAcid with the CAS number 56-86-0.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class GlutamicAcid extends Molecule {
 	 * Default constructor of RWO GlutamicAcid
 	 */
 	public GlutamicAcid() {
-		super("C5H9NO4", "");
+		super("C5H9NO4", "56-86-0");
 	}
 
 }

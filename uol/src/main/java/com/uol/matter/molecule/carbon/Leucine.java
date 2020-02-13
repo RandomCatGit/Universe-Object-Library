@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Leucine is the RWO for the molecule leucine .
+ * Leucine is the RWO for the molecule Leucine with the CAS number 73-32-5.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Leucine extends Molecule {
 	 * Default constructor of RWO Leucine
 	 */
 	public Leucine() {
-		super("C6H13NO2", "");
+		super("C6H13NO2", "73-32-5");
 	}
 
 }

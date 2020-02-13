@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Glutamine is the RWO for the molecule glutamine .
+ * Glutamine is the RWO for the molecule Glutamine with the CAS number 56-85-9.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Glutamine extends Molecule {
 	 * Default constructor of RWO Glutamine
 	 */
 	public Glutamine() {
-		super("C5H10N2O3", "");
+		super("C5H10N2O3", "56-85-9");
 	}
 
 }

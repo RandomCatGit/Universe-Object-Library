@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Cysteine is the RWO for the molecule cysteine .
+ * Cysteine is the RWO for the molecule Cysteine with the CAS number 52-90-4.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Cysteine extends Molecule {
 	 * Default constructor of RWO Cysteine
 	 */
 	public Cysteine() {
-		super("C3H7NO2S", "");
+		super("C3H7NO2S", "52-90-4");
 	}
 
 }

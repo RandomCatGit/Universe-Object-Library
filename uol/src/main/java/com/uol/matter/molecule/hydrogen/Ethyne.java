@@ -26,7 +26,7 @@ public class Ethyne extends Molecule {
 	 * Default constructor of RWO Ethyne
 	 */
 	public Ethyne() {
-		super("HCCH", "74-86-2");
+		super("C2H2", "74-86-2");
 	}
 
 }

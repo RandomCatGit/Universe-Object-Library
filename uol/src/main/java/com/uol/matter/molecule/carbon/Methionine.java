@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Methionine is the RWO for the molecule methionine .
+ * Methionine is the RWO for the molecule Methionine with the CAS number 25343-91-3.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Methionine extends Molecule {
 	 * Default constructor of RWO Methionine
 	 */
 	public Methionine() {
-		super("C5H11NO2S", "");
+		super("C5H11NO2S", "25343-91-3");
 	}
 
 }

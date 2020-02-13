@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Lysine is the RWO for the molecule lysine .
+ * Lysine is the RWO for the molecule Lysine with the CAS number 56-87-1.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Lysine extends Molecule {
 	 * Default constructor of RWO Lysine
 	 */
 	public Lysine() {
-		super("C6H14N2O2", "");
+		super("C6H14N2O2", "56-87-1");
 	}
 
 }

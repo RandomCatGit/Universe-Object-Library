@@ -11,7 +11,7 @@ import com.uol.matter.molecule.Molecule;
  */
 
 /**
- * Glycine is the RWO for the molecule glycine .
+ * Glycine is the RWO for the molecule Glycine with the CAS number 56-40-6.
  *
  * @author RandomCatGit
  */
@@ -26,7 +26,7 @@ public class Glycine extends Molecule {
 	 * Default constructor of RWO Glycine
 	 */
 	public Glycine() {
-		super("C2H5NO2", "");
+		super("C2H5NO2", "56-40-6");
 	}
 
 }
