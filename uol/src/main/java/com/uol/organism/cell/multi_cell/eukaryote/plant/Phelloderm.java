@@ -3,20 +3,20 @@ package com.uol.organism.cell.multi_cell.eukaryote.plant;
 import com.uol.organism.cell.Cell;
 
 /*
- * RWO: Epidermis
+ * RWO: Phelloderm
  * 
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
+ * RandomCatGit					Created RWO								20/02/2020
  */
 
 /**
- * Epidermis is specialised tissue, composed of parenchyma cells, that covers the external surfaces of leaves, stems and
- * roots.
+ * Phelloderm or Bark is the outermost layers of stems and roots of woody plants. Plants with bark include trees, woody
+ * vines, and shrubs.
  *
  * @author RandomCatGit
  */
-public class Epidermis extends Cell {
+public class Phelloderm extends Cell {
 
 	/**
 	 * serialVersionUID
@@ -24,9 +24,9 @@ public class Epidermis extends Cell {
 	private static final long serialVersionUID = 0L;
 
 	/**
-	 * Default constructor of RWO StemCell
+	 * Default constructor of RWO Phelloderm
 	 */
-	public Epidermis() {
+	public Phelloderm() {
 		super(null);
 	}
 
