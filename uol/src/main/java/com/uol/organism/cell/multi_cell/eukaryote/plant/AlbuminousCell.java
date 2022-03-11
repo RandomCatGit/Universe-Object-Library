@@ -3,20 +3,20 @@ package com.uol.organism.cell.multi_cell.eukaryote.plant;
 import com.uol.organism.cell.Cell;
 
 /*
- * RWO: Sclerenchyma
+ * RWO: AlbuminousCell
  * 
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
+ * RandomCatGit					Created RWO								11/03/2022
  */
 
 /**
- * Sclerenchyma are composed of any of various kinds of hard woody cells. Mature sclerenchyma cells are usually dead
- * cells that have heavily thickened secondary walls containing lignin
+ * AlbuminousCell have a similar role to companion cells, but are associated with sieve cells only and are hence found
+ * only in seedless vascular plants and gymnosperms
  *
  * @author RandomCatGit
  */
-public class Sclerenchyma extends Cell {
+public class AlbuminousCell extends Cell {
 
 	/**
 	 * serialVersionUID
@@ -26,7 +26,7 @@ public class Sclerenchyma extends Cell {
 	/**
 	 * Default constructor of RWO StemCell
 	 */
-	public Sclerenchyma() {
+	public AlbuminousCell() {
 		super(null);
 	}
 

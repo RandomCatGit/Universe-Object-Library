@@ -37,5 +37,5 @@ public class Cell extends Alive {
 	/**
 	 * organelles is the list of organelles present in the cell.
 	 */
-	private List<Organelle> organelles;
+	private List<? extends Organelle> organelles;
 }

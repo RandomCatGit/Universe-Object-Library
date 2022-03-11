@@ -3,20 +3,20 @@ package com.uol.organism.cell.multi_cell.eukaryote.plant;
 import com.uol.organism.cell.Cell;
 
 /*
- * RWO: Sclerenchyma
+ * RWO: BastFibre
  * 
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
+ * RandomCatGit					Created RWO								11/03/2022
  */
 
 /**
- * Sclerenchyma are composed of any of various kinds of hard woody cells. Mature sclerenchyma cells are usually dead
- * cells that have heavily thickened secondary walls containing lignin
+ * BastFibre is plant fibre collected from the phloem or bast surrounding the stem of certain dicotyledonous plants. It
+ * supports the conductive cells of the phloem and provides strength to the stem.
  *
  * @author RandomCatGit
  */
-public class Sclerenchyma extends Cell {
+public class BastFibre extends Cell {
 
 	/**
 	 * serialVersionUID
@@ -26,7 +26,7 @@ public class Sclerenchyma extends Cell {
 	/**
 	 * Default constructor of RWO StemCell
 	 */
-	public Sclerenchyma() {
+	public BastFibre() {
 		super(null);
 	}
 

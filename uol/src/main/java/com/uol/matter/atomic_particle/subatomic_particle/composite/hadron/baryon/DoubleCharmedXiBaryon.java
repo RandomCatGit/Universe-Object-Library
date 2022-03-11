@@ -1,7 +1,6 @@
 package com.uol.matter.atomic_particle.subatomic_particle.composite.hadron.baryon;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.CharmQuark;
@@ -14,6 +13,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								25/12/2018
+ * RandomCatGit					Modified compositeParticles init		11/03/2022
  */
 
 /**
@@ -21,7 +21,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  *
  * @author RandomCatGit
  */
-public class DoubleCharmedXiBaryon extends SubatomicParticle {
+public final class DoubleCharmedXiBaryon extends SubatomicParticle {
 
 	/**
 	 * serialVersionUID for RWO DoubleCharmedXiBaryon
@@ -50,28 +50,7 @@ public class DoubleCharmedXiBaryon extends SubatomicParticle {
 			throw new IllegalArgumentException("DoubleCharmedXiBaryon can contain only 1 or 2 charge");
 		}
 		setElectricCharge(charge);
-		compositeParticles = new CompositeProperties() {
-
-			@Override
-			public List<SubatomicParticle> getParticles() {
-				List<SubatomicParticle> particles = new ArrayList<>();
-				switch (charge) {
-				case 1:
-					particles.add(new DownQuark());
-					particles.add(new CharmQuark());
-					particles.add(new CharmQuark());
-					break;
-				case 2:
-					particles.add(new UpQuark());
-					particles.add(new CharmQuark());
-					particles.add(new CharmQuark());
-					break;
-				default:
-					throw new IllegalArgumentException("DoubleCharmedXiBaryon can contain only 1 or 2 charge");
-				}
-				return particles;
-			}
-		}.getParticles();
+		setCompositeParticles(Arrays.asList(charge == 1 ? new DownQuark() : new UpQuark(), new CharmQuark(), new CharmQuark()));
 	}
 
 }

@@ -1,7 +1,6 @@
 package com.uol.matter.atomic_particle.subatomic_particle.composite.hadron.meson;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownQuark;
@@ -14,6 +13,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								25/12/2018
+ * RandomCatGit					Modified compositeParticles init		11/03/2022
  */
 
 /**
@@ -21,7 +21,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  *
  * @author RandomCatGit
  */
-public class Kaon extends SubatomicParticle {
+public final class Kaon extends SubatomicParticle {
 
 	/**
 	 * serialVersionUID for RWO Kaon
@@ -41,21 +41,7 @@ public class Kaon extends SubatomicParticle {
 		setSpin(0);
 		setMass(charge == 0 ? 0.49767f : 0.49369f);
 		setElectricCharge(charge);
-		compositeParticles = new CompositeProperties() {
-
-			@Override
-			public List<SubatomicParticle> getParticles() throws IllegalArgumentException {
-				List<SubatomicParticle> particles = new ArrayList<>();
-				if (getElectricCharge() == 0) {
-					particles.add(new DownQuark());
-					particles.add(new StrangeAntiquark());
-				} else {
-					particles.add(new UpQuark());
-					particles.add(new StrangeAntiquark());
-				}
-				return particles;
-			}
-		}.getParticles();
+		setCompositeParticles(Arrays.asList(charge == 0 ? new DownQuark() : new UpQuark(), new StrangeAntiquark()));
 	}
 
 }

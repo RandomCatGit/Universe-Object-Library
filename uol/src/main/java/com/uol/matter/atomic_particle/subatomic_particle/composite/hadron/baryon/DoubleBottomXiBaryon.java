@@ -1,7 +1,6 @@
 package com.uol.matter.atomic_particle.subatomic_particle.composite.hadron.baryon;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.BottomQuark;
@@ -14,6 +13,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								25/12/2018
+ * RandomCatGit					Modified compositeParticles init		11/03/2022
  */
 
 /**
@@ -21,7 +21,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  *
  * @author RandomCatGit
  */
-public class DoubleBottomXiBaryon extends SubatomicParticle {
+public final class DoubleBottomXiBaryon extends SubatomicParticle {
 
 	/**
 	 * serialVersionUID for RWO DoubleBottomXiBaryon
@@ -39,30 +39,9 @@ public class DoubleBottomXiBaryon extends SubatomicParticle {
 			throw new IllegalArgumentException("DoubleBottomXiBaryon can contain only 0 or -1 charge");
 		}
 		setSpin(1 / 2);
-		// setMass(); // Mass unknown
+		setMass(Float.NaN); // Mass unknown
 		setElectricCharge(charge);
-		compositeParticles = new CompositeProperties() {
-
-			@Override
-			public List<SubatomicParticle> getParticles() {
-				List<SubatomicParticle> particles = new ArrayList<>();
-				switch (charge) {
-				case 0:
-					particles.add(new UpQuark());
-					particles.add(new BottomQuark());
-					particles.add(new BottomQuark());
-					break;
-				case -1:
-					particles.add(new DownQuark());
-					particles.add(new BottomQuark());
-					particles.add(new BottomQuark());
-					break;
-				default:
-					throw new IllegalArgumentException("DoubleBottomXiBaryon can contain only 0 or -1 charge");
-				}
-				return particles;
-			}
-		}.getParticles();
+		setCompositeParticles(Arrays.asList(charge == 0 ? new UpQuark() : new DownQuark(), new BottomQuark(), new BottomQuark()));
 	}
 
 }

@@ -50,7 +50,7 @@ public class Element extends UniverseObjectLibrary {
 	private byte atomicNumber;
 
 	/**
-	 * atomicMass is the atomic mass of the element in unified atomic mass unit or dalton (u or Da).
+	 * atomicMass is the atomic mass of the element in unified atomic mass unit or Dalton (u or Da).
 	 */
 	private float atomicMass;
 

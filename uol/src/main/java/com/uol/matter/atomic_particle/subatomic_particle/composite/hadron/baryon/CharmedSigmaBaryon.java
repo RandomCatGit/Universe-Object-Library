@@ -1,11 +1,11 @@
 package com.uol.matter.atomic_particle.subatomic_particle.composite.hadron.baryon;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.CharmQuark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownQuark;
+import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.StrangeQuark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.UpQuark;
 
 /*
@@ -14,6 +14,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								25/12/2018
+ * RandomCatGit					Modified compositeParticles init		11/03/2022
  */
 
 /**
@@ -22,7 +23,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  *
  * @author RandomCatGit
  */
-public class CharmedSigmaBaryon extends SubatomicParticle {
+public final class CharmedSigmaBaryon extends SubatomicParticle {
 
 	/**
 	 * serialVersionUID for RWO CharmedSigmaBaryon
@@ -58,33 +59,19 @@ public class CharmedSigmaBaryon extends SubatomicParticle {
 			throw new IllegalArgumentException("CharmedSigmaBaryon can contain only 0, 1, or 2 charge");
 		}
 		setElectricCharge(charge);
-		compositeParticles = new CompositeProperties() {
-
-			@Override
-			public List<SubatomicParticle> getParticles() {
-				List<SubatomicParticle> particles = new ArrayList<>();
-				switch (charge) {
-				case 0:
-					particles.add(new UpQuark());
-					particles.add(new UpQuark());
-					particles.add(new CharmQuark());
-					break;
-				case 1:
-					particles.add(new UpQuark());
-					particles.add(new DownQuark());
-					particles.add(new CharmQuark());
-					break;
-				case 2:
-					particles.add(new DownQuark());
-					particles.add(new DownQuark());
-					particles.add(new CharmQuark());
-					break;
-				default:
-					throw new IllegalArgumentException("CharmedSigmaBaryon can contain only 0, 1, or 2 charge");
-				}
-				return particles;
-			}
-		}.getParticles();
+		switch (charge) {
+		case 0:
+			setCompositeParticles(Arrays.asList(new UpQuark(), new UpQuark(), new CharmQuark()));
+			break;
+		case 1:
+			setCompositeParticles(Arrays.asList(new UpQuark(), new DownQuark(), new CharmQuark()));
+			break;
+		case 2:
+			setCompositeParticles(Arrays.asList(new DownQuark(), new DownQuark(), new CharmQuark()));
+			break;
+		default:
+			throw new IllegalArgumentException("CharmedSigmaBaryon can contain only 0, 1, or 2 charge");
+		}
 	}
 
 }

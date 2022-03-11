@@ -3,20 +3,21 @@ package com.uol.organism.cell.multi_cell.eukaryote.plant;
 import com.uol.organism.cell.Cell;
 
 /*
- * RWO: Sclerenchyma
+ * RWO: Sclereid
  * 
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
+ * RandomCatGit					Created RWO								11/03/2022
  */
 
 /**
- * Sclerenchyma are composed of any of various kinds of hard woody cells. Mature sclerenchyma cells are usually dead
- * cells that have heavily thickened secondary walls containing lignin
+ * Sclereid is a reduced form of sclerenchyma cells with highly thickened, lignified cellular walls that form small
+ * bundles of durable layers of tissue in most plants. The presence of numerous sclereids form the cores of apples and
+ * produce the gritty texture of guavas.
  *
  * @author RandomCatGit
  */
-public class Sclerenchyma extends Cell {
+public class Sclereid extends Cell {
 
 	/**
 	 * serialVersionUID
@@ -26,7 +27,7 @@ public class Sclerenchyma extends Cell {
 	/**
 	 * Default constructor of RWO StemCell
 	 */
-	public Sclerenchyma() {
+	public Sclereid() {
 		super(null);
 	}
 

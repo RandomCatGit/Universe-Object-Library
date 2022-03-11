@@ -1,7 +1,6 @@
 package com.uol.matter.atomic_particle.subatomic_particle.composite.hadron.baryon;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownQuark;
@@ -13,6 +12,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								25/12/2018
+ * RandomCatGit					Modified compositeParticles init		11/03/2022
  */
 
 /**
@@ -20,7 +20,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  *
  * @author RandomCatGit
  */
-public class DeltaBaryon extends SubatomicParticle {
+public final class DeltaBaryon extends SubatomicParticle {
 
 	/**
 	 * serialVersionUID for RWO DeltaBaryon
@@ -34,7 +34,7 @@ public class DeltaBaryon extends SubatomicParticle {
 	 * @throws IllegalArgumentException
 	 */
 	public DeltaBaryon(int charge) throws IllegalArgumentException {
-		if (Math.abs(charge) > 1 && charge != 2) {
+		if (charge < -1 || charge > 2) {
 			throw new IllegalArgumentException("DeltaBaryon can contain only -1, 0, 1 or 2 charge");
 		}
 		switch (charge) {
@@ -55,38 +55,22 @@ public class DeltaBaryon extends SubatomicParticle {
 		}
 		setMass(1.234f);
 		setElectricCharge(charge);
-		compositeParticles = new CompositeProperties() {
-
-			@Override
-			public List<SubatomicParticle> getParticles() {
-				List<SubatomicParticle> particles = new ArrayList<>();
-				switch (charge) {
-				case 2:
-					particles.add(new UpQuark());
-					particles.add(new UpQuark());
-					particles.add(new UpQuark());
-					break;
-				case 1:
-					particles.add(new UpQuark());
-					particles.add(new UpQuark());
-					particles.add(new DownQuark());
-					break;
-				case 0:
-					particles.add(new UpQuark());
-					particles.add(new DownQuark());
-					particles.add(new DownQuark());
-					break;
-				case -1:
-					particles.add(new DownQuark());
-					particles.add(new DownQuark());
-					particles.add(new DownQuark());
-					break;
-				default:
-					throw new IllegalArgumentException("DeltaBaryon can contain only -1, 0, 1 or 2 charge");
-				}
-				return particles;
-			}
-		}.getParticles();
+		switch (charge) {
+		case 2:
+			setCompositeParticles(Arrays.asList(new UpQuark(), new UpQuark(), new UpQuark()));
+			break;
+		case 1:
+			setCompositeParticles(Arrays.asList(new UpQuark(), new UpQuark(), new DownQuark()));
+			break;
+		case 0:
+			setCompositeParticles(Arrays.asList(new UpQuark(), new DownQuark(), new DownQuark()));
+			break;
+		case -1:
+			setCompositeParticles(Arrays.asList(new DownQuark(), new DownQuark(), new DownQuark()));
+			break;
+		default:
+			throw new IllegalArgumentException("DeltaBaryon can contain only -1, 0, 1 or 2 charge");
+		}
 	}
 
 }

@@ -1,7 +1,6 @@
 package com.uol.matter.atomic_particle.subatomic_particle.composite.hadron.baryon;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.CharmQuark;
@@ -13,6 +12,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								25/12/2018
+ * RandomCatGit					Modified compositeParticles init		11/03/2022
  */
 
 /**
@@ -20,7 +20,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  *
  * @author RandomCatGit
  */
-public class CharmedOmegaBaryon extends SubatomicParticle {
+public final class CharmedOmegaBaryon extends SubatomicParticle {
 
 	/**
 	 * serialVersionUID for RWO CharmedOmegaBaryon
@@ -34,17 +34,7 @@ public class CharmedOmegaBaryon extends SubatomicParticle {
 		setSpin(1 / 2);
 		setMass(2.7001f);
 		setElectricCharge(0);
-		compositeParticles = new CompositeProperties() {
-
-			@Override
-			public List<SubatomicParticle> getParticles() {
-				List<SubatomicParticle> particles = new ArrayList<>();
-				particles.add(new StrangeQuark());
-				particles.add(new StrangeQuark());
-				particles.add(new CharmQuark());
-				return particles;
-			}
-		}.getParticles();
+		setCompositeParticles(Arrays.asList(new StrangeQuark(), new StrangeQuark(), new CharmQuark()));
 	}
 
 }
