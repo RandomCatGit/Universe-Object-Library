@@ -226,7 +226,7 @@ public class Molecule extends UniverseObjectLibrary {
 	 * 
 	 * @return aggregate weight of all the elements in the molecule.
 	 */
-	private float getMolecularMass() {
+	public float getMolecularMass() {
 		AtomicFloat aggregateMass = new AtomicFloat();
 		getElements().forEach((element, count) -> {
 			aggregateMass.addAndGet(element.getAtomicMass() * count);

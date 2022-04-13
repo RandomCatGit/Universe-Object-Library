@@ -11,8 +11,8 @@ import com.uol.organism.cell.Cell;
  */
 
 /**
- * Sclerenchyma is a tissue composed of two types of cells, sclereids and fibres that have thickened, lignified
- * secondary walls laid down inside of the primary cell wall.
+ * Sclerenchyma are composed of any of various kinds of hard woody cells. Mature sclerenchyma cells are usually dead
+ * cells that have heavily thickened secondary walls containing lignin
  *
  * @author RandomCatGit
  */

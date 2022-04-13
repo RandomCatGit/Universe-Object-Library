@@ -1,7 +1,6 @@
 package com.uol.matter.atomic_particle.subatomic_particle.composite.hadron.baryon;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownQuark;
@@ -14,6 +13,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								25/12/2018
+ * RandomCatGit					Modified compositeParticles init		11/03/2022
  */
 
 /**
@@ -22,7 +22,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  *
  * @author RandomCatGit
  */
-public class LambdaBaryon extends SubatomicParticle {
+public final class LambdaBaryon extends SubatomicParticle {
 
 	/**
 	 * serialVersionUID for RWO LambdaBaryon
@@ -36,17 +36,7 @@ public class LambdaBaryon extends SubatomicParticle {
 		setSpin(1 / 2);
 		setMass(1.115689f);
 		setElectricCharge(0);
-		compositeParticles = new CompositeProperties() {
-
-			@Override
-			public List<SubatomicParticle> getParticles() {
-				List<SubatomicParticle> particles = new ArrayList<>();
-				particles.add(new UpQuark());
-				particles.add(new DownQuark());
-				particles.add(new StrangeQuark());
-				return particles;
-			}
-		}.getParticles();
+		setCompositeParticles(Arrays.asList(new UpQuark(), new DownQuark(), new StrangeQuark()));
 	}
 
 }

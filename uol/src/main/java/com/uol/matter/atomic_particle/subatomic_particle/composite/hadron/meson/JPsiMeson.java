@@ -1,7 +1,6 @@
 package com.uol.matter.atomic_particle.subatomic_particle.composite.hadron.meson;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.CharmAntiquark;
@@ -13,6 +12,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								25/12/2018
+ * RandomCatGit					Modified compositeParticles init		11/03/2022
  */
 
 /**
@@ -21,7 +21,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  *
  * @author RandomCatGit
  */
-public class JPsiMeson extends SubatomicParticle {
+public final class JPsiMeson extends SubatomicParticle {
 
 	/**
 	 * serialVersionUID for RWO JPsiMeson
@@ -35,16 +35,7 @@ public class JPsiMeson extends SubatomicParticle {
 		setSpin(1);
 		setMass(3.096916f);
 		setElectricCharge(0);
-		compositeParticles = new CompositeProperties() {
-
-			@Override
-			public List<SubatomicParticle> getParticles() {
-				List<SubatomicParticle> particles = new ArrayList<>();
-				particles.add(new CharmQuark());
-				particles.add(new CharmAntiquark());
-				return particles;
-			}
-		}.getParticles();
+		setCompositeParticles(Arrays.asList(new CharmQuark(), new CharmAntiquark()));
 	}
 
 }

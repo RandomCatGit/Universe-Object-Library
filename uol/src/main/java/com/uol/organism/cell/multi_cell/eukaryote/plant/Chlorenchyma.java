@@ -3,20 +3,19 @@ package com.uol.organism.cell.multi_cell.eukaryote.plant;
 import com.uol.organism.cell.Cell;
 
 /*
- * RWO: Epidermis
+ * RWO: Chlorenchyma
  * 
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
+ * RandomCatGit					Created RWO								11/03/2022
  */
 
 /**
- * Epidermis is specialised tissue, composed of parenchyma cells, that covers the external surfaces of leaves, stems and
- * roots.
+ * Chlorenchyma is the cell responsible for photosynthesis and manufacturing of food for the plant.
  *
  * @author RandomCatGit
  */
-public class Epidermis extends Cell {
+public class Chlorenchyma extends Cell {
 
 	/**
 	 * serialVersionUID
@@ -26,7 +25,7 @@ public class Epidermis extends Cell {
 	/**
 	 * Default constructor of RWO StemCell
 	 */
-	public Epidermis() {
+	public Chlorenchyma() {
 		super(null);
 	}
 

@@ -8,6 +8,7 @@ import com.uol.matter.molecule.Molecule;
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								15/01/2019
+ * RandomCatGit					Removed duplicate						20/02/2020
  */
 
 /**
@@ -20,13 +21,13 @@ public class StearicAcid extends Molecule {
 	/**
 	 * serialVersionUID
 	 */
-	private static final long serialVersionUID = 0L;
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Default constructor of RWO StearicAcid
 	 */
 	public StearicAcid() {
-		super("CH3(CH2)16COOH", "57-11-4");
+		super("C18H36O2", "57-11-4");
 	}
 
 }

@@ -1,7 +1,6 @@
 package com.uol.matter.atomic_particle.subatomic_particle.composite.hadron.baryon;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownAntiquark;
@@ -13,6 +12,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								25/12/2018
+ * RandomCatGit					Modified compositeParticles init		11/03/2022
  */
 
 /**
@@ -21,7 +21,7 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
  *
  * @author RandomCatGit
  */
-public class Antiproton extends SubatomicParticle {
+public final class Antiproton extends SubatomicParticle {
 
 	/**
 	 * serialVersionUID for RWO Antiproton
@@ -35,17 +35,7 @@ public class Antiproton extends SubatomicParticle {
 		setSpin(1 / 2);
 		setMass(0.9382720871f);
 		setElectricCharge(-1);
-		compositeParticles = new CompositeProperties() {
-
-			@Override
-			public List<SubatomicParticle> getParticles() {
-				List<SubatomicParticle> particles = new ArrayList<>();
-				particles.add(new UpAntiquark());
-				particles.add(new UpAntiquark());
-				particles.add(new DownAntiquark());
-				return particles;
-			}
-		}.getParticles();
+		setCompositeParticles(Arrays.asList(new UpAntiquark(), new UpAntiquark(), new DownAntiquark()));
 	}
 
 }

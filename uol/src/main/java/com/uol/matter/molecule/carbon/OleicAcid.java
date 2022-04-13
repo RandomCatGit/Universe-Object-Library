@@ -3,19 +3,19 @@ package com.uol.matter.molecule.carbon;
 import com.uol.matter.molecule.Molecule;
 
 /*
- * RWO: StearicAcid_1
+ * RWO: OleicAcid
  * 
  * Author 						Description 							Date
  * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
+ * RandomCatGit					Created RWO								20/02/2020
  */
 
 /**
- * StearicAcid_1 is the RWO for the molecule stearic acid with the CAS number 57-11-4.
+ * OleicAcid is a fatty acid that occurs naturally in various animal and vegetable fats and oils.
  *
  * @author RandomCatGit
  */
-public class StearicAcid_1 extends Molecule {
+public class OleicAcid extends Molecule {
 
 	/**
 	 * serialVersionUID
@@ -23,10 +23,10 @@ public class StearicAcid_1 extends Molecule {
 	private static final long serialVersionUID = 0L;
 
 	/**
-	 * Default constructor of RWO StearicAcid_1
+	 * Default constructor of RWO OleicAcid
 	 */
-	public StearicAcid_1() {
-		super("C18H36O2", "57-11-4");
+	public OleicAcid() {
+		super("C18H34O2", "112-80-1");
 	}
 
 }

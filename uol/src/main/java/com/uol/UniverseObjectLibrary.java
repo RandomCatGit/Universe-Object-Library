@@ -15,7 +15,7 @@ import java.io.Serializable;
  *
  * @author RandomCatGit
  */
-public class UniverseObjectLibrary implements Serializable {
+public abstract class UniverseObjectLibrary implements Serializable {
 
 	/**
 	 * serialVersionUID for RWO UniverseObjectLibrary

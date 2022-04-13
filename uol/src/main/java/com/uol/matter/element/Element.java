@@ -16,6 +16,7 @@ import lombok.Setter;
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWP								1/9/2018
  * RandomCatGit					Added valence property					29/11/2019
+ * RandomCatGit					Changed elementary class to final		13/04/2022
  */
 
 /**
@@ -27,7 +28,7 @@ import lombok.Setter;
 @Setter(AccessLevel.NONE)
 @EqualsAndHashCode(callSuper = true)
 @AllArgsConstructor
-public class Element extends UniverseObjectLibrary {
+public abstract class Element extends UniverseObjectLibrary {
 
 	/**
 	 * serialVersionUID for RWP Element
@@ -50,7 +51,7 @@ public class Element extends UniverseObjectLibrary {
 	private byte atomicNumber;
 
 	/**
-	 * atomicMass is the atomic mass of the element in unified atomic mass unit or dalton (u or Da).
+	 * atomicMass is the atomic mass of the element in unified atomic mass unit or Dalton (u or Da).
 	 */
 	private float atomicMass;
 

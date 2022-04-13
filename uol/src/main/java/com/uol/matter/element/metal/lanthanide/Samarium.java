@@ -10,6 +10,7 @@ import com.uol.matter.element.Element;
  * --------------------------------------------------------------------------------
  * RandomCatGit					Created RWO								10/01/2019
  * RandomCatGit					Added valence property					29/11/2019
+ * RandomCatGit					Changed elementary class to final		13/04/2022
  */
 
 /**
@@ -17,7 +18,7 @@ import com.uol.matter.element.Element;
  *
  * @author RandomCatGit
  */
-public class Samarium extends Element {
+public final class Samarium extends Element {
 
 	/**
 	 * serialVersionUID

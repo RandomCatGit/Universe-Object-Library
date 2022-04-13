@@ -16,7 +16,7 @@ import com.uol.matter.element.Element;
  *
  * @author RandomCatGit
  */
-public class Tritium extends Element {
+public final class Tritium extends Element {
 
 	/**
 	 * serialVersionUID
