@@ -16,7 +16,7 @@ import com.uol.matter.element.Element;
  *
  * @author RandomCatGit
  */
-public class Deuterium extends Element {
+public final class Deuterium extends Element {
 
 	/**
 	 * serialVersionUID
