@@ -4,7 +4,7 @@ The concept of <b>Object Oriented Programming</b> is an interesting one. We can 
 
 Universe Object Library is maintained by Logic Lab of CatLeap Labs (http://catleaplabs.com/)
 
-Feel free to check out the rules and add your contributon to the Javaverse!
+Feel free to check out the rules and add your contributon to the library!
 
 [Check out the Universe Object Library Wiki!](https://github.com/RandomCatGit/Universe-Object-Library/wiki)
 
