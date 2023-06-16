@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nitrogen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AmmoniumNitride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * AmmoniumNitride is the RWO for the molecule ammonium nitride.
  *

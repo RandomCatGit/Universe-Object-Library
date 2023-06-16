@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lithium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: LithiumIodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * LithiumIodide is the RWO for the molecule lithium iodide with the CAS number 10377-51-2.
  *

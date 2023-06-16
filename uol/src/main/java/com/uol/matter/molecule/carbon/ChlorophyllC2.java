@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ChlorophyllC2
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/01/2019
- */
-
 /**
  * ChlorophyllC2 is the RWO for the molecule chlorophyll c2.
  *

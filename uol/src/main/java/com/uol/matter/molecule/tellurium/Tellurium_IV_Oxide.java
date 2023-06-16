@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tellurium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Tellurium_IV_Oxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Tellurium_IV_Oxide is the RWO for the molecule tellurium(IV) oxide with the CAS number 7446-07-3.
  *

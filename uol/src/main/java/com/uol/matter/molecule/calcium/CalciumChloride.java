@@ -2,14 +2,6 @@ package com.uol.matter.molecule.calcium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CalciumChloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CalciumChloride is the RWO for the molecule calcium chloride with the CAS number 10043-52-4.
  *

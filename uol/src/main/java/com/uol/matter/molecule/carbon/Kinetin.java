@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Kinetin
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Kinetin is the RWO for the molecule kinetin with the CAS number 525-79-1.
  *

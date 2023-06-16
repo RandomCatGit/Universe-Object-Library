@@ -2,14 +2,6 @@ package com.uol.matter.molecule.rubidium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: RubidiumBicarbonate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * RubidiumBicarbonate is the RWO for the molecule rubidium bicarbonate.
  *

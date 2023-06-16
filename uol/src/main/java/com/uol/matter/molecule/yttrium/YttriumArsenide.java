@@ -2,14 +2,6 @@ package com.uol.matter.molecule.yttrium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: YttriumArsenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * YttriumArsenide is the RWO for the molecule yttrium arsenide with the CAS number 12255-48-0.
  *

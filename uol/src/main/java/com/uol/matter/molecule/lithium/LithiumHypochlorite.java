@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lithium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: LithiumHypochlorite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * LithiumHypochlorite is the RWO for the molecule lithium hypochlorite with the CAS number 13840-33-0.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.aluminium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AluminiumTrifluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * AluminiumTrifluoride is the RWO for the molecule aluminium trifluoride with the CAS number 7784-18-1.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.calcium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Oldhamite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Oldhamite is the RWO for the molecule oldhamite with the CAS number 20548-54-3.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.caesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CaesiumIodate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CaesiumIodate is the RWO for the molecule caesium iodate with the CAS number 13454-81-4.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cobalt;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Cobalt_III_Hydroxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Cobalt_III_Hydroxide is the RWO for the molecule cobalt(III) hydroxide with the CAS number 1307-86-4.
  *

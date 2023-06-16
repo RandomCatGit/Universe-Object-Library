@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Edaravone
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Edaravone is the RWO for the molecule edaravone with the CAS number 89-25-8.
  *

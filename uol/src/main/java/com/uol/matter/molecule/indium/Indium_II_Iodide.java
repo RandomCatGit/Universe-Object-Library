@@ -2,14 +2,6 @@ package com.uol.matter.molecule.indium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Indium_II_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Indium_II_Iodide is the RWO for the molecule indium(II) iodide.
  *

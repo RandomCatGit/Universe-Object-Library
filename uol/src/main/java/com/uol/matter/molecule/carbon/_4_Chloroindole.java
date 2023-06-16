@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _4_Chloroindole
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _4_Chloroindole is the RWO for the molecule 4-chloroindole with the CAS number 25235-85-2.
  *

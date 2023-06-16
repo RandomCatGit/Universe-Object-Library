@@ -5,14 +5,6 @@ import java.util.Arrays;
 import com.uol.organism.cell.multi_cell.eukaryote.animal.Adipocyte;
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: AdiposeTissue
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								22/10/2019
- */
-
 /**
  * AdiposeTissue is a loose connective tissue composed mostly of adipocytes. In addition to adipocytes, adipose tissue
  * contains the stromal vascular fraction (SVF) of cells including preadipocytes, fibroblasts, vascular endothelial

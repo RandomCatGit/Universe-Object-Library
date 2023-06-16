@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _1_6_Hexanediol
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _1_6_Hexanediol is the RWO for the molecule 1,6-hexanediol.
  *

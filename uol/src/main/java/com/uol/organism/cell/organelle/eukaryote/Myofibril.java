@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.eukaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Myofibril
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Myofibril or muscle fibril is a basic rod-like unit of a muscle cell.
  *

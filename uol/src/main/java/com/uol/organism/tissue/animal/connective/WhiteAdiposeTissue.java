@@ -5,14 +5,6 @@ import java.util.Arrays;
 import com.uol.organism.cell.multi_cell.eukaryote.animal.BrownFatCell;
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: WhiteAdiposeTissue
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								22/10/2019
- */
-
 /**
  * WhiteAdiposeTissue (WAT) is used for energy storage. Upon release of insulin from the pancreas, white adipose cells'
  * insulin receptors cause a dephosphorylation cascade that lead to the inactivation of hormone-sensitive lipase.

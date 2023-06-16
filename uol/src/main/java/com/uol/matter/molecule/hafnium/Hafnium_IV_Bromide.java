@@ -2,14 +2,6 @@ package com.uol.matter.molecule.hafnium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Hafnium_IV_Bromide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Hafnium_IV_Bromide is the RWO for the molecule hafnium(IV) bromide with the CAS number 13777-22-5.
  *

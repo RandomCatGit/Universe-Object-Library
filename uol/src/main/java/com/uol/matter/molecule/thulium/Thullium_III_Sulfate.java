@@ -2,14 +2,6 @@ package com.uol.matter.molecule.thulium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Thullium_III_Sulfate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Thullium_III_Sulfate is the RWO for the molecule thullium(III) sulfate.
  *

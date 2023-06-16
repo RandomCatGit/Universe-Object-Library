@@ -2,14 +2,6 @@ package com.uol.matter.molecule.selenium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SelenateIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SelenateIon is the RWO for the molecule selenate ion with the CAS number 14124-68-6.
  *

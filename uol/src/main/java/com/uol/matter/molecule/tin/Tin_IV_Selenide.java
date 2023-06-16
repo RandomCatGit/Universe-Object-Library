@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tin;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Tin_IV_Selenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Tin_IV_Selenide is the RWO for the molecule tin(IV) selenide with the CAS number 20770-09-6.
  *

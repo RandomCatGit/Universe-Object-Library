@@ -2,14 +2,6 @@ package com.uol.matter.molecule.gold;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: GoldCyanide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * GoldCyanide is the RWO for the molecule gold cyanide with the CAS number 506-65-0.
  *

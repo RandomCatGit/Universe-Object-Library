@@ -2,14 +2,6 @@ package com.uol.matter.molecule.fluorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TritinHexafluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TritinHexafluoride is the RWO for the molecule tritin hexafluoride with the CAS number 12324-60-6.
  *

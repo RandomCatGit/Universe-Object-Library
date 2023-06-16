@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nitrogen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AmmoniumChloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * AmmoniumChloride is the RWO for the molecule ammonium chloride with the CAS number 12125-02-9.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.atomic_particle.subatomic_particle.elementary.boson.gauge
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 
-/*
- * RWO: Photon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/12/2018
- */
-
 /**
  * Photon is a type of elementary particle, the quantum of the electromagnetic field including electromagnetic radiation
  * such as light, and the force carrier for the electromagnetic force (even when static via virtual particles). The

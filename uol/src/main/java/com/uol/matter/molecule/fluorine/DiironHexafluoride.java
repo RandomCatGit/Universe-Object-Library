@@ -2,14 +2,6 @@ package com.uol.matter.molecule.fluorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: DiironHexafluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * DiironHexafluoride is the RWO for the molecule diiron hexafluoride with the CAS number 17114-45-3.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AdenosineTriphosphate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/01/2019
- */
-
 /**
  * AdenosineTriphosphate is the RWO for the molecule adenosine triphosphate or ATP with the CAS number 56-65-5.
  *

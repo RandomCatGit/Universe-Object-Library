@@ -2,14 +2,6 @@ package com.uol.matter.molecule.magnesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Montmorillonite_Clay_
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Montmorillonite_Clay_ is the RWO for the molecule montmorillonite (clay) with the CAS number 1318-93-0.
  *

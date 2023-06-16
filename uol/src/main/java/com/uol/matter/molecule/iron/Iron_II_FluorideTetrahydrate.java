@@ -2,14 +2,6 @@ package com.uol.matter.molecule.iron;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Iron_II_FluorideTetrahydrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Iron_II_FluorideTetrahydrate is the RWO for the molecule iron(II) fluoride tetrahydrate with the CAS number 13940-89-1.
  *

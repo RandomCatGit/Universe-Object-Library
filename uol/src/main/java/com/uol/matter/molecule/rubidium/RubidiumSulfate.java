@@ -2,14 +2,6 @@ package com.uol.matter.molecule.rubidium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: RubidiumSulfate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * RubidiumSulfate is the RWO for the molecule rubidium sulfate with the CAS number 7488-54-2.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.scandium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ScandiumOxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ScandiumOxide is the RWO for the molecule scandium oxide .
  *

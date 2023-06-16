@@ -2,14 +2,6 @@ package com.uol.matter.molecule.barium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BariumUraniumOxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BariumUraniumOxide is the RWO for the molecule barium uranium oxide with the CAS number 10380-31-1.
  *

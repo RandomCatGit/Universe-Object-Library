@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: NicotinamideAdenineDinucleotidePhosphate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/01/2019
- */
-
 /**
  * NicotinamideAdenineDinucleotidePhosphate is the RWO for the molecule nicotinamide adenine dinucleotide phosphate or
  * NADPH with the CAS number 53-59-8.

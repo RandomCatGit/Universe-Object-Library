@@ -2,14 +2,6 @@ package com.uol.matter.molecule.gold;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: GoldTrichloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * GoldTrichloride is the RWO for the molecule gold trichloride with the CAS number 13453-07-1.
  *

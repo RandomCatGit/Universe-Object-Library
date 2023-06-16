@@ -6,14 +6,6 @@ import com.uol.matter.molecule.carbon.Acrosin;
 import com.uol.matter.molecule.carbon.Hyaluronidase;
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Acrosome
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Acrosome is an organelle that develops over the anterior half of the head in the spermatozoa (sperm cells) of many
  * animals including humans.

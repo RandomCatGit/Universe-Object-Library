@@ -2,14 +2,6 @@ package com.uol.matter.molecule.barium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BariumAluminate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BariumAluminate is the RWO for the molecule barium aluminate with the CAS number 12004-04-5.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.arsenic;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: MagnesiumArsenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * MagnesiumArsenide is the RWO for the molecule magnesium arsenide with the CAS number 12044-49-4.
  *

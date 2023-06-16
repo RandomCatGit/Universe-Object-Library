@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nitrogen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Nitrogen_IV_Oxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Nitrogen_IV_Oxide is the RWO for the molecule with the CAS number 10102-44-0.
  *

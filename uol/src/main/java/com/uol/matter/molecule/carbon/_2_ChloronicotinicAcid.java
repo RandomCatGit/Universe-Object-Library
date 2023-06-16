@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _2_ChloronicotinicAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _2_ChloronicotinicAcid is the RWO for the molecule 2-chloronicotinic acid with the CAS number 2942-59-8.
  *

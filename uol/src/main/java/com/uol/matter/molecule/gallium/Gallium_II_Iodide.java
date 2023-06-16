@@ -2,14 +2,6 @@ package com.uol.matter.molecule.gallium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Gallium_II_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Gallium_II_Iodide is the RWO for the molecule gallium(II) iodide.
  *

@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.protein;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Hemoglobin
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								09/02/2019
- */
-
 /**
  * Hemoglobin is the iron-containing oxygen-transport metalloprotein in the red blood cells (erythrocytes) of almost all
  * vertebrates as well as the tissues of some invertebrates. Hemoglobin in the blood carries oxygen from the lungs or

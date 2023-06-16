@@ -2,14 +2,6 @@ package com.uol.matter.molecule.zinc;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ZincTellurate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ZincTellurate is the RWO for the molecule zinc tellurate.
  *

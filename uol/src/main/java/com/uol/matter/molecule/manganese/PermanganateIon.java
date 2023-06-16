@@ -2,14 +2,6 @@ package com.uol.matter.molecule.manganese;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: PermanganateIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * PermanganateIon is the RWO for the molecule permanganate ion with the CAS number 14333-13-2.
  *

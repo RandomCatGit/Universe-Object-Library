@@ -2,14 +2,6 @@ package com.uol.matter.molecule.sodium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SodaAsh
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SodaAsh is the RWO for the molecule soda ash with the CAS number 497-19-8.
  *

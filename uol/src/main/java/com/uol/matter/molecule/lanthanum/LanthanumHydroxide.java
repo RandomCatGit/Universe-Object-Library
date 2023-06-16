@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lanthanum;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: LanthanumHydroxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * LanthanumHydroxide is the RWO for the molecule lanthanum hydroxide.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.oxygen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: OxygenDifluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * OxygenDifluoride is the RWO for the molecule oxygen difluoride with the CAS number 7783-41-7.
  *

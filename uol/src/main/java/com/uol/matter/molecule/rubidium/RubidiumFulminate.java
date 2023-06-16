@@ -2,14 +2,6 @@ package com.uol.matter.molecule.rubidium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: RubidiumFulminate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * RubidiumFulminate is the RWO for the molecule rubidium fulminate.
  *

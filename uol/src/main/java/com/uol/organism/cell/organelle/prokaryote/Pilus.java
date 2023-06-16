@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.prokaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Pilus
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Pilus is a hair-like appendage found on the surface of many bacteria.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.bromine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Bromine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Bromine is the RWO for the molecule bromine with the CAS number 7726-95-6.
  *

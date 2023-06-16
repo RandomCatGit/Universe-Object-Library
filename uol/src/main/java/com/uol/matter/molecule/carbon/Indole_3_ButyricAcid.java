@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Indole_3_ButyricAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Indole_3_ButyricAcid is the RWO for the molecule indole-3-butyric acid with the CAS number 133-32-4.
  *

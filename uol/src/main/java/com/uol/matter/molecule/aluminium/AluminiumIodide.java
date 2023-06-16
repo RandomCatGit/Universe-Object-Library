@@ -2,14 +2,6 @@ package com.uol.matter.molecule.aluminium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AluminiumIodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * AluminiumIodide is the RWO for the molecule aluminium iodide with the CAS number 18898-35-6.
  *

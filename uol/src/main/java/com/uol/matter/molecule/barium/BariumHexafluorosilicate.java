@@ -2,14 +2,6 @@ package com.uol.matter.molecule.barium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BariumHexafluorosilicate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BariumHexafluorosilicate is the RWO for the molecule barium hexafluorosilicate with the CAS number 17125-80-3.
  *

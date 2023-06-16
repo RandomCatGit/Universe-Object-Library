@@ -2,14 +2,6 @@ package com.uol.matter.molecule.manganese;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Hausmannite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Hausmannite is the RWO for the molecule hausmannite with the CAS number 1317-35-7.
  *

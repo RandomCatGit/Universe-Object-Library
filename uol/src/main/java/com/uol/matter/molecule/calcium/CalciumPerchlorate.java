@@ -2,14 +2,6 @@ package com.uol.matter.molecule.calcium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CalciumPerchlorate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CalciumPerchlorate is the RWO for the molecule calcium perchlorate with the CAS number 13477-36-6.
  *

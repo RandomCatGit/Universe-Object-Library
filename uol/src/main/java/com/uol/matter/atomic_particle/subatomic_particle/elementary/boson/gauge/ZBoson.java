@@ -2,14 +2,6 @@ package com.uol.matter.atomic_particle.subatomic_particle.elementary.boson.gauge
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 
-/*
- * RWO: ZBoson
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/12/2018
- */
-
 /**
  * ZBoson is known as weak or intermediate vector bosons. The Z bosons are named after their Zero electric charge.
  *

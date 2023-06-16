@@ -2,14 +2,6 @@ package com.uol.matter.molecule.chromium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Chromium_II_Chloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Chromium_II_Chloride is the RWO for the molecule chromium(II) chloride with the CAS number 10049-05-5.
  *

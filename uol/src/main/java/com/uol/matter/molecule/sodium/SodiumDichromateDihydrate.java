@@ -2,14 +2,6 @@ package com.uol.matter.molecule.sodium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SodiumDichromateDihydrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SodiumDichromateDihydrate is the RWO for the molecule Sodium dichromate dihydrate with the CAS number 10588-01-9.
  *

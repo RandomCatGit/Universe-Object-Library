@@ -2,14 +2,6 @@ package com.uol.matter.molecule.iron;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Fayalite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Fayalite is the RWO for the molecule fayalite with the CAS number 13918-37-1.
  *

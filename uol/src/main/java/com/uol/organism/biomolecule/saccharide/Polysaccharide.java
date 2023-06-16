@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.saccharide;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Polysaccharide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								04/02/2019
- */
-
 /**
  * Polysaccharide is polymeric carbohydrate molecules composed of long chains of monosaccharide units bound together
  * by glycosidic linkages, and on hydrolysis gives the constituent monosaccharides or oligosaccharides.

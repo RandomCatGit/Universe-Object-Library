@@ -2,14 +2,6 @@ package com.uol.matter.molecule.magnesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: MagnesiumAluminate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * MagnesiumAluminate is the RWO for the molecule magnesium aluminate with the CAS number 12068-51-8.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.rubidium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: RubidiumHydride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * RubidiumHydride is the RWO for the molecule rubidium hydride.
  *

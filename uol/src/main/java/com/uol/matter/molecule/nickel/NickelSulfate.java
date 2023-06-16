@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nickel;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: NickelSulfate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * NickelSulfate is the RWO for the molecule nickel sulfate with the CAS number 7786-81-4.
  *

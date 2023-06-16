@@ -2,14 +2,6 @@ package com.uol.matter.molecule.beryllium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BerylliumBromide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BerylliumBromide is the RWO for the molecule beryllium bromide with the CAS number 7787-46-4.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.chlorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ChlorinePerchlorate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ChlorinePerchlorate is the RWO for the molecule chlorine perchlorate with the CAS number 27218-16-2.
  *

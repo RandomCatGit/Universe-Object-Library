@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nitrogen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AmideIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * AmideIon is the RWO for the molecule amide ion with the CAS number 17655-31-1.
  *

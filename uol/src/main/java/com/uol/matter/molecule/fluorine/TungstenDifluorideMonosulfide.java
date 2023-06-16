@@ -2,14 +2,6 @@ package com.uol.matter.molecule.fluorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TungstenDifluorideMonosulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TungstenDifluorideMonosulfide is the RWO for the molecule tungsten difluoride monosulfide with the CAS number 41831-78-1.
  *

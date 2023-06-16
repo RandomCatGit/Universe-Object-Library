@@ -2,14 +2,6 @@ package com.uol.matter.molecule.arsenic;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ArsenicHemiselenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ArsenicHemiselenide is the RWO for the molecule arsenic hemiselenide with the CAS number 1303-35-1.
  *

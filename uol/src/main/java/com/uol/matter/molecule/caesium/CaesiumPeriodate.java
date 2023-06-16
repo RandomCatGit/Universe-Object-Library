@@ -2,14 +2,6 @@ package com.uol.matter.molecule.caesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CaesiumPeriodate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CaesiumPeriodate is the RWO for the molecule caesium periodate with the CAS number 13478-04-1.
  *

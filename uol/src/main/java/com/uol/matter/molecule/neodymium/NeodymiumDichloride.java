@@ -2,14 +2,6 @@ package com.uol.matter.molecule.neodymium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: NeodymiumDichloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * NeodymiumDichloride is the RWO for the molecule neodymium dichloride with the CAS number 25469-93-6.
  *

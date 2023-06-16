@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tungsten;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Tungsten_VI_Oxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Tungsten_VI_Oxide is the RWO for the molecule tungsten(VI) oxide with the CAS number 1314-35-8.
  *

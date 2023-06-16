@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lithium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: LithiumNitrateMonohydrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * LithiumNitrateMonohydrate is the RWO for the molecule lithium nitrate monohydrate.
  *

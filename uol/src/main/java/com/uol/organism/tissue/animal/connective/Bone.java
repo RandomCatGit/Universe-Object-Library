@@ -2,14 +2,6 @@ package com.uol.organism.tissue.animal.connective;
 
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: Bone
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								24/10/2019
- */
-
 /**
  * Bone is a rigid organ that constitutes part of the vertebrate skeleton. Bones protect the various organs of the body,
  * produce red and white blood cells, store minerals, provide structure and support for the body, and enable mobility.

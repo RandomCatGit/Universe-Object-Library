@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nickel;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Nickel_II_NitrateHexahydrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Nickel_II_NitrateHexahydrate is the RWO for the molecule nickel(II) nitrate hexahydrate with the CAS number 13478-00-7.
  *

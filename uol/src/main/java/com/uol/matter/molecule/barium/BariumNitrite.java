@@ -2,14 +2,6 @@ package com.uol.matter.molecule.barium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BariumNitrite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BariumNitrite is the RWO for the molecule barium nitrite with the CAS number 13465-94-6.
  *

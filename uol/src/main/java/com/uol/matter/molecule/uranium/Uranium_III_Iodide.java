@@ -2,14 +2,6 @@ package com.uol.matter.molecule.uranium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Uranium_III_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Uranium_III_Iodide is the RWO for the molecule uranium(III) iodide.
  *

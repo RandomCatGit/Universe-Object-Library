@@ -2,14 +2,6 @@ package com.uol.matter.molecule.magnesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: MagnesiumIodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * MagnesiumIodide is the RWO for the molecule magnesium iodide with the CAS number 10377-58-9.
  *

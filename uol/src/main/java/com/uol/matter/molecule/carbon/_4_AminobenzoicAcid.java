@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _4_AminobenzoicAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _4_AminobenzoicAcid is the RWO for the molecule 4-aminobenzoic acid with the CAS number 150-13-0.
  *

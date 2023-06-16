@@ -2,14 +2,6 @@ package com.uol.matter.molecule.iodine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Iodine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Iodine is the RWO for the molecule iodine with the CAS number 7553-56-2.
  *

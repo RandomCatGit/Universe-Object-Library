@@ -7,14 +7,6 @@ import com.uol.organism.cell.multi_cell.eukaryote.plant.Tracheid;
 import com.uol.organism.cell.multi_cell.eukaryote.plant.VesselElement;
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: Xylum
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								11/03/2022
- */
-
 /**
  * Xylum transports water from roots to stems and leaves, but it also transports nutrients. An example of Xylum tissue
  * is wood.

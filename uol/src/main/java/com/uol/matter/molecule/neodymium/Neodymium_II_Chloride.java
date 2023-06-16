@@ -2,14 +2,6 @@ package com.uol.matter.molecule.neodymium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Neodymium_II_Chloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Neodymium_II_Chloride is the RWO for the molecule neodymium(II) chloride .
  *

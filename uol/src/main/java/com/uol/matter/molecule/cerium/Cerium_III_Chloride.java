@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cerium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Cerium_III_Chloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Cerium_III_Chloride is the RWO for the molecule cerium(III) chloride with the CAS number 7790-86-5.
  *

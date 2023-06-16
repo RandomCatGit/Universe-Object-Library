@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cobalt;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CobaltBoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CobaltBoride is the RWO for the molecule cobalt boride with the CAS number 12045-01-1.
  *

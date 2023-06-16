@@ -2,14 +2,6 @@ package com.uol.matter.molecule.sulfur;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SulfateIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SulfateIon is the RWO for the molecule sulfate ion with the CAS number 14808-79-8.
  *

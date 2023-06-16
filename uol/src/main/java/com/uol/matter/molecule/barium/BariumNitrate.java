@@ -2,14 +2,6 @@ package com.uol.matter.molecule.barium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BariumNitrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BariumNitrate is the RWO for the molecule barium nitrate with the CAS number 10022-31-8.
  *

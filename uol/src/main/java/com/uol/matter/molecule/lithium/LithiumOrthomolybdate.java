@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lithium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: LithiumOrthomolybdate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * LithiumOrthomolybdate is the RWO for the molecule lithium orthomolybdate with the CAS number 13568-40-6.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.aluminium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AluminiumMonofluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * AluminiumMonofluoride is the RWO for the molecule aluminium monofluoride with the CAS number 13595-82-9.
  *

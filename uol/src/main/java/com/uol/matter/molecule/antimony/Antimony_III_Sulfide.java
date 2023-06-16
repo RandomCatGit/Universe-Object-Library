@@ -2,14 +2,6 @@ package com.uol.matter.molecule.antimony;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Antimony_III_Sulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Antimony_III_Sulfide is the RWO for the molecule antimony(III) sulfide with the CAS number 1345-04-6.
  *

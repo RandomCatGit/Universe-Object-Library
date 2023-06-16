@@ -2,14 +2,6 @@ package com.uol.matter.molecule.magnesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: DimagnesiumPhosphate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * DimagnesiumPhosphate is the RWO for the molecule dimagnesium phosphate.
  *

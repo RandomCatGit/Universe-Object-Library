@@ -2,14 +2,6 @@ package com.uol.matter.molecule.uranium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: UraniumDiselenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * UraniumDiselenide is the RWO for the molecule uranium diselenide with the CAS number 12138-21-5.
  *

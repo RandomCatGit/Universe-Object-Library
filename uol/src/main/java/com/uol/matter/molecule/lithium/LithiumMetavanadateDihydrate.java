@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lithium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: LithiumMetavanadateDihydrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * LithiumMetavanadateDihydrate is the RWO for the molecule lithium metavanadate dihydrate.
  *

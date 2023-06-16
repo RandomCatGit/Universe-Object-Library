@@ -2,14 +2,6 @@ package com.uol.matter.molecule.uranium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: UranylChloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * UranylChloride is the RWO for the molecule uranyl chloride with the CAS number 7791-26-6.
  *

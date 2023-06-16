@@ -2,14 +2,6 @@ package com.uol.organism.cell.multi_cell.eukaryote.animal;
 
 import com.uol.organism.cell.Cell;
 
-/*
- * RWO: WhiteFatCell
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/10/2019
- */
-
 /**
  * WhiteFatCell or monovacuolar cells contain a large lipid droplet surrounded by a layer of cytoplasm. The nucleus is
  * flattened and located on the periphery. A typical fat cell is 0.1 mm in diameter with some being twice that size and

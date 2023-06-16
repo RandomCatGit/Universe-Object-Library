@@ -2,14 +2,6 @@ package com.uol.matter.molecule.gallium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Gallium_III_Sulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Gallium_III_Sulfide is the RWO for the molecule gallium(III) sulfide with the CAS number 12024-22-5.
  *

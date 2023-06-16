@@ -15,16 +15,6 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.Setter;
 
-/*
- * RWO: Atom
- * 
- * Author					Description									Date
- * --------------------------------------------------------------------------------
- * RandomCatGit				Created RWO									22/12/2018
- * RandomCatGit				Added subatomic dependencies				25/12/2018
- * RandomCatGit				Added isotope function						11/03/2022
- */
-
 /**
  * Atom is the smallest part of matter that determines its properties.
  *

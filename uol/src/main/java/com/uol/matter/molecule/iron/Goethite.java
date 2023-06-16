@@ -2,14 +2,6 @@ package com.uol.matter.molecule.iron;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Goethite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Goethite is the RWO for the molecule goethite with the CAS number 1310-14-1.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.calcium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TricalciumPhosphate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TricalciumPhosphate is the RWO for the molecule tricalcium phosphate with the CAS number 7758-87-4.
  *

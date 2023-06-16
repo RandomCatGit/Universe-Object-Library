@@ -2,14 +2,6 @@ package com.uol.matter.molecule.magnesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: MagnesiumSelenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * MagnesiumSelenide is the RWO for the molecule magnesium selenide with the CAS number 1313-04-8.
  *

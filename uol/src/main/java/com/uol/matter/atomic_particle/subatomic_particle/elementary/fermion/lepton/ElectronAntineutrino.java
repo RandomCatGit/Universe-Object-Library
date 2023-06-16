@@ -2,14 +2,6 @@ package com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.lep
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 
-/*
- * RWO: ElectronAntineutrino
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/12/2018
- */
-
 /**
  * ElectronAntineutrino is the antiparticle of {@linkplain ElectronNeutrino}.
  *

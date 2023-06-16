@@ -2,14 +2,6 @@ package com.uol.matter.molecule.copper;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CopperIronSulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CopperIronSulfide is the RWO for the molecule copper iron sulfide .
  *

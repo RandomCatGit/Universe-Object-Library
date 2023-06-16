@@ -7,15 +7,6 @@ import com.uol.UniverseObjectLibrary;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
-/*
- * RWP: SubatomicParticle
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWP							23/12/2018
- * RandomCatGit					Modified compositeParticles access	11/03/2022
- */
-
 /**
  * SubatomicParticle is the RWP class on common properties of all subatomic particles
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tellurium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TellurateIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TellurateIon is the RWO for the molecule tellurate ion with the CAS number 15852-22-9.
  *

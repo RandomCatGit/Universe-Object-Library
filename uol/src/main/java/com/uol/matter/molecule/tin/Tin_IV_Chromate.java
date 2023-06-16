@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tin;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Tin_IV_Chromate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Tin_IV_Chromate is the RWO for the molecule tin(IV) chromate with the CAS number 10101-75-4.
  *

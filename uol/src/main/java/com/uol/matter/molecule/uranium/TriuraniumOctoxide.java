@@ -2,14 +2,6 @@ package com.uol.matter.molecule.uranium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TriuraniumOctoxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TriuraniumOctoxide is the RWO for the molecule triuranium octoxide with the CAS number 1344-59-8.
  *

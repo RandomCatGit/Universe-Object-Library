@@ -2,14 +2,6 @@ package com.uol.matter.molecule.boron;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BoronHydride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BoronHydride is the RWO for the molecule boron hydride with the CAS number 19287-45-7.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.arsenic;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ArsenicTriselenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ArsenicTriselenide is the RWO for the molecule arsenic triselenide with the CAS number 1303-36-2.
  *

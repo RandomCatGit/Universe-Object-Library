@@ -2,14 +2,6 @@ package com.uol.matter.molecule.calcium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CalciumNitrateTetrahydrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CalciumNitrateTetrahydrate is the RWO for the molecule Calcium nitrate tetrahydrate with the CAS number 13477-34-4.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.qua
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 
-/*
- * RWO: TopAntiquark
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/12/2018
- */
-
 /**
  * TopAntiquark is the antiparticle of {@linkplain TopQuark}.
  *

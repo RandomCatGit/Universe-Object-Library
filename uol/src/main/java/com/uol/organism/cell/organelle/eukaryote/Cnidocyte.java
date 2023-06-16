@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.eukaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Cnidocyte
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Cnidocyte is an explosive cell containing one giant secretory organelle or cnida.
  *

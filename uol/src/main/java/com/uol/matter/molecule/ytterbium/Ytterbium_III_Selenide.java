@@ -2,14 +2,6 @@ package com.uol.matter.molecule.ytterbium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Ytterbium_III_Selenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Ytterbium_III_Selenide is the RWO for the molecule ytterbium(III) selenide with the CAS number 12166-52-8.
  *

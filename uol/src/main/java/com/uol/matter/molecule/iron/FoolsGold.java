@@ -2,14 +2,6 @@ package com.uol.matter.molecule.iron;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: FoolsGold
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * FoolsGold is the RWO for the molecule fool's gold with the CAS number 1309-36-0.
  *

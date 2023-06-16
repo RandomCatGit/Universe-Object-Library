@@ -2,14 +2,6 @@ package com.uol.matter.molecule.fluorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: MagnesiumFluoride_1
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * MagnesiumFluoride_1 is the RWO for the molecule magnesium fluoride with the CAS number 58790-41-3.
  *

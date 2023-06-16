@@ -5,14 +5,6 @@ import java.util.Arrays;
 import com.uol.organism.biomolecule.protein.Tubulin;
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Centriole
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Centriole is a cylindrical organelle composed mainly of a protein called tubulin.
  *

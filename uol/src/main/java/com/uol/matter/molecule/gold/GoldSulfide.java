@@ -2,14 +2,6 @@ package com.uol.matter.molecule.gold;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: GoldSulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * GoldSulfide is the RWO for the molecule gold sulfide with the CAS number 1303-60-2.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: N_N_Dimethyltryptamine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * N_N_Dimethyltryptamine is the RWO for the molecule N,N-Dimethyltryptamine with the CAS number 61-50-7.
  *

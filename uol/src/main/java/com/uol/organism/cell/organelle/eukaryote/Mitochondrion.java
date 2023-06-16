@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.eukaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Mitochondrion
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Mitochondrion is a double-membrane-bound organelle found in most eukaryote organisms.
  *

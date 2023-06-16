@@ -2,14 +2,6 @@ package com.uol.matter.molecule.selenium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Selenium_IV_Telluride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Selenium_IV_Telluride is the RWO for the molecule selenium(IV) telluride with the CAS number 12067-42-4.
  *

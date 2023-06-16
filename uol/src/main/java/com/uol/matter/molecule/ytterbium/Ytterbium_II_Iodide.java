@@ -2,14 +2,6 @@ package com.uol.matter.molecule.ytterbium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Ytterbium_II_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Ytterbium_II_Iodide is the RWO for the molecule ytterbium(II) iodide with the CAS number 19357-86-9.
  *

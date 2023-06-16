@@ -2,14 +2,6 @@ package com.uol.matter.molecule.ytterbium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Ytterbium_III_Fluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Ytterbium_III_Fluoride is the RWO for the molecule ytterbium(III) fluoride with the CAS number 13760-80-0.
  *

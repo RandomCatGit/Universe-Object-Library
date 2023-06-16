@@ -9,14 +9,6 @@ import com.uol.matter.molecule.carbon.Guanine;
 import com.uol.matter.molecule.carbon.Ribose;
 import com.uol.matter.molecule.carbon.Uracil;
 
-/*
- * RWO: RibonucleicAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								04/02/2019
- */
-
 /**
  * RibonucleicAcid or RNA is a polymeric molecule essential in various biological roles in coding, decoding, regulation
  * and expression of genes.

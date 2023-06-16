@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tantalum;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Tantalum_III_Bromide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Tantalum_III_Bromide is the RWO for the molecule tantalum(III) bromide.
  *

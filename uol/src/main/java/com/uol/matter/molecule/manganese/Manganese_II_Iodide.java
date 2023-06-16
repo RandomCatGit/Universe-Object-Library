@@ -2,14 +2,6 @@ package com.uol.matter.molecule.manganese;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Manganese_II_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Manganese_II_Iodide is the RWO for the molecule manganese(II) iodide with the CAS number 7790-33-2.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.silicon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SiliconNitride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SiliconNitride is the RWO for the molecule silicon nitride with the CAS number 12033-89-5.
  *

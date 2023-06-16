@@ -2,14 +2,6 @@ package com.uol.matter.molecule.caesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CaesiumBorate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CaesiumBorate is the RWO for the molecule caesium borate with the CAS number 92141-86-1.
  *

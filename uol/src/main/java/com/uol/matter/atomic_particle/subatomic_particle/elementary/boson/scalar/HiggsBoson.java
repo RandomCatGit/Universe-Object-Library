@@ -2,14 +2,6 @@ package com.uol.matter.atomic_particle.subatomic_particle.elementary.boson.scala
 
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 
-/*
- * RWO: HiggsBoson
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/12/2018
- */
-
 /**
  * HiggsBoson is an elementary particle in the Standard Model of particle physics, produced by the quantum excitation of
  * the Higgs field, one of the fields in particle physics theory.

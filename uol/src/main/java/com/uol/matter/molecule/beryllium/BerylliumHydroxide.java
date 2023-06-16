@@ -2,14 +2,6 @@ package com.uol.matter.molecule.beryllium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BerylliumHydroxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BerylliumHydroxide is the RWO for the molecule beryllium hydroxide with the CAS number 13327-32-7.
  *

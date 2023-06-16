@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nitrogen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AmmoniumHydrosulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * AmmoniumHydrosulfide is the RWO for the molecule ammonium hydrosulfide with the CAS number 12124-99-1.
  *

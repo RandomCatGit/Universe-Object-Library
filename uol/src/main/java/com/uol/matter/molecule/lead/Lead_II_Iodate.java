@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lead;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Lead_II_Iodate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Lead_II_Iodate is the RWO for the molecule lead(II) iodate with the CAS number 25659-31-8.
  *

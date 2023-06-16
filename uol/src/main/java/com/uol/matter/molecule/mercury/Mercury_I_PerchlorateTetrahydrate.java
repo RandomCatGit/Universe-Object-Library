@@ -2,14 +2,6 @@ package com.uol.matter.molecule.mercury;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Mercury_I_PerchlorateTetrahydrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Mercury_I_PerchlorateTetrahydrate is the RWO for the molecule mercury(I) perchlorate tetrahydrate.
  *

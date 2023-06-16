@@ -2,14 +2,6 @@ package com.uol.matter.molecule.fluorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: NeodymiumMonofluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * NeodymiumMonofluoride is the RWO for the molecule neodymium monofluoride with the CAS number 13940-77-7.
  *

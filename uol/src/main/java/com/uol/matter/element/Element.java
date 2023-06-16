@@ -9,16 +9,6 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
-/*
- * RWP: Element
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWP								1/9/2018
- * RandomCatGit					Added valence property					29/11/2019
- * RandomCatGit					Changed elementary class to final		13/04/2022
- */
-
 /**
  * Element is the RWP class on common properties of all elements
  *

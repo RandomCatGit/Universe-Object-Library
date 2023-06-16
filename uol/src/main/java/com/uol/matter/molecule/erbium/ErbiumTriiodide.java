@@ -2,14 +2,6 @@ package com.uol.matter.molecule.erbium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ErbiumTriiodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ErbiumTriiodide is the RWO for the molecule erbium triiodide with the CAS number 13813-42-8.
  *

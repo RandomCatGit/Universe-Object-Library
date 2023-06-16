@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nickel;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: NickelAntimonide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * NickelAntimonide is the RWO for the molecule nickel antimonide.
  *

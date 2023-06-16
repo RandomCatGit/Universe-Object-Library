@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cerium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Cerianite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Cerianite is the RWO for the molecule cerianite with the CAS number 1306-38-3.
  *

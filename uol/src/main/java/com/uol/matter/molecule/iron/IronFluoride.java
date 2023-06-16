@@ -2,14 +2,6 @@ package com.uol.matter.molecule.iron;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: IronFluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * IronFluoride is the RWO for the molecule iron fluoride with the CAS number 41428-55-1.
  *

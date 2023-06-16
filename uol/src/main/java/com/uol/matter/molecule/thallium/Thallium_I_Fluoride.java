@@ -2,14 +2,6 @@ package com.uol.matter.molecule.thallium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Thallium_I_Fluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Thallium_I_Fluoride is the RWO for the molecule thallium(I) fluoride with the CAS number 7789-27-7.
  *

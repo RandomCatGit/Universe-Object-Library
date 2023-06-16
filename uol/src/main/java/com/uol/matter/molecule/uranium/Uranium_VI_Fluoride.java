@@ -2,14 +2,6 @@ package com.uol.matter.molecule.uranium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Uranium_VI_Fluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Uranium_VI_Fluoride is the RWO for the molecule uranium(VI) fluoride with the CAS number 7783-81-5.
  *

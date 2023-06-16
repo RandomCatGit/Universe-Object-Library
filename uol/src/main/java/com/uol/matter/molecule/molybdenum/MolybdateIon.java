@@ -2,14 +2,6 @@ package com.uol.matter.molecule.molybdenum;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: MolybdateIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * MolybdateIon is the RWO for the molecule molybdate ion with the CAS number 14259-85-9.
  *

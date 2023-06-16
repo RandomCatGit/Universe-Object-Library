@@ -6,14 +6,6 @@ import com.uol.organism.cell.multi_cell.eukaryote.plant.BastFibre;
 import com.uol.organism.cell.multi_cell.eukaryote.plant.Sclereid;
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: Sclerenchyma
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								11/03/2022
- */
-
 /**
  * Sclerenchyma is the tissue which makes the plant hard and stiff. Sclerenchyma is the supporting tissue in plants.
  *

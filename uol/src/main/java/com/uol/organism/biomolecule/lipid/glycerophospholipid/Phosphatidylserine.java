@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.lipid.glycerophospholipid;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Phosphatidylserine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								05/02/2019
- */
-
 /**
  * Phosphatidylserine is a phospholipid and is a component of the cell membrane. It plays a key role in cell cycle
  * signaling, specifically in relation to apoptosis. It has a CAS number 8002-43-5.

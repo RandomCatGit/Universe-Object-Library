@@ -2,14 +2,6 @@ package com.uol.matter.molecule.caesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CaesiumChromate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CaesiumChromate is the RWO for the molecule caesium chromate with the CAS number 13454-78-9.
  *

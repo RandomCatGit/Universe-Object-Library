@@ -2,14 +2,6 @@ package com.uol.matter.molecule.caesium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: MonocaesiumPhosphate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * MonocaesiumPhosphate is the RWO for the molecule monocaesium phosphate with the CAS number 18649-05-3.
  *

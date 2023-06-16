@@ -2,14 +2,6 @@ package com.uol.matter.molecule.aluminium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AluminiumSulphate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * AluminiumSulphate is the RWO for the molecule aluminium sulphate with the CAS number 14455-29-9.
  *

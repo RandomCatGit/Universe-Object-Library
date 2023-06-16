@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.saccharide;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Cellulose
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								06/02/2019
- */
-
 /**
  * Cellulose is a polysaccharide consisting of a linear chain of several hundred to many thousands of β(1→4) linked
  * D-glucose units. It has the CAS number 9004-34-6.

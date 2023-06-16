@@ -2,14 +2,6 @@ package com.uol.matter.molecule.boron;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BoronSelenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BoronSelenide is the RWO for the molecule boron selenide with the CAS number 287-91-2.
  *

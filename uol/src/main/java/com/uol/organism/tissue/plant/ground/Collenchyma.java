@@ -4,14 +4,6 @@ import java.util.Collections;
 
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: Collenchyma
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								11/03/2022
- */
-
 /**
  * Collenchyma is composed of elongated cells with irregularly thickened walls. They provide structural support,
  * particularly in growing shoots and leaves.

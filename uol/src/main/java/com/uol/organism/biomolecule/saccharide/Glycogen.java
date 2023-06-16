@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.saccharide;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Glycogen
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								19/02/2019
- */
-
 /**
  * Glycogen is a multibranched polysaccharide of glucose that serves as a form of energy storage in humans, animals,
  * fungi, and bacteria. The polysaccharide structure represents the main storage form of glucose in the body.

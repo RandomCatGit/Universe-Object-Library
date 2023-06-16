@@ -2,14 +2,6 @@ package com.uol.matter.molecule.titanium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TitaniumHydride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TitaniumHydride is the RWO for the molecule titanium hydride.
  *

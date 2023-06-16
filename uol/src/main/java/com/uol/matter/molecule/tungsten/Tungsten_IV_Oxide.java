@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tungsten;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Tungsten_IV_Oxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Tungsten_IV_Oxide is the RWO for the molecule tungsten(IV) oxide with the CAS number 12036-22-5.
  *

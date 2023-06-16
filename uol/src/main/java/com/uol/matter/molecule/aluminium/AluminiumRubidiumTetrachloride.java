@@ -2,14 +2,6 @@ package com.uol.matter.molecule.aluminium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AluminiumRubidiumTetrachloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * AluminiumRubidiumTetrachloride is the RWO for the molecule aluminium rubidium tetrachloride with the CAS number 17992-02-8.
  *

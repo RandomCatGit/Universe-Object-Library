@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: OleicAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								20/02/2020
- */
-
 /**
  * OleicAcid is a fatty acid that occurs naturally in various animal and vegetable fats and oils.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.rubidium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: RubidiumChlorate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * RubidiumChlorate is the RWO for the molecule rubidium chlorate with the CAS number 13446-71-4.
  *

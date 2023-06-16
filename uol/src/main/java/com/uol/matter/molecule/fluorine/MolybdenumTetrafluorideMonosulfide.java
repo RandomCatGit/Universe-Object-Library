@@ -2,14 +2,6 @@ package com.uol.matter.molecule.fluorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: MolybdenumTetrafluorideMonosulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * MolybdenumTetrafluorideMonosulfide is the RWO for the molecule molybdenum tetrafluoride monosulfide with the CAS number 70487-60-4.
  *

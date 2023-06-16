@@ -7,15 +7,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownQuark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.UpQuark;
 
-/*
- * RWO: BMeson
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * BMeson is meson composed of a {@linkplain BottomAntiquark} and either an {@linkplain UpQuark} or
  * {@linkplain DownQuark}.

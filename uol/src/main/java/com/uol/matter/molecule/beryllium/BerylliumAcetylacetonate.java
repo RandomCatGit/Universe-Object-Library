@@ -2,14 +2,6 @@ package com.uol.matter.molecule.beryllium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BerylliumAcetylacetonate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BerylliumAcetylacetonate is the RWO for the molecule beryllium acetylacetonate with the CAS number 10210-64-7.
  *

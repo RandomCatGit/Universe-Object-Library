@@ -2,14 +2,6 @@ package com.uol.matter.molecule.sodium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SodiumIodate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SodiumIodate is the RWO for the molecule sodium iodate.
  *

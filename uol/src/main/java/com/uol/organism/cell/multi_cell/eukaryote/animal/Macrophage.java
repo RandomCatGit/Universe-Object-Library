@@ -2,14 +2,6 @@ package com.uol.organism.cell.multi_cell.eukaryote.animal;
 
 import com.uol.organism.cell.Cell;
 
-/*
- * RWO: Macrophage
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/10/2019
- */
-
 /**
  * Macrophage are a type of white blood cell, of the immune system, that engulfs and digests cellular debris, foreign
  * substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy

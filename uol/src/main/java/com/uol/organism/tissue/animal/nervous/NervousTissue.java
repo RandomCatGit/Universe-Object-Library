@@ -5,14 +5,6 @@ import java.util.Arrays;
 import com.uol.organism.cell.multi_cell.eukaryote.animal.Neuron;
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: NervousTissue
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/10/2019
- */
-
 /**
  * NervousTissue is the main tissue component of the nervous system. The nervous system regulates and controls bodily
  * functions and activity and consists of two parts: the central nervous system (CNS) comprising the brain and spinal

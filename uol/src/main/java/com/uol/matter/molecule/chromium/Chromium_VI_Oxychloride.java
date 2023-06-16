@@ -2,14 +2,6 @@ package com.uol.matter.molecule.chromium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Chromium_VI_Oxychloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Chromium_VI_Oxychloride is the RWO for the molecule chromium(VI) oxychloride with the CAS number 14977-61-8.
  *

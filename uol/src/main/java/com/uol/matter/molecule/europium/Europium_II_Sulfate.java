@@ -2,14 +2,6 @@ package com.uol.matter.molecule.europium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Europium_II_Sulfate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Europium_II_Sulfate is the RWO for the molecule europium(II) sulfate with the CAS number 10031-54-6.
  *

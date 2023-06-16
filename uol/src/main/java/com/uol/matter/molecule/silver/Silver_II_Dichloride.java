@@ -2,14 +2,6 @@ package com.uol.matter.molecule.silver;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Silver_II_Dichloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Silver_II_Dichloride is the RWO for the molecule silver(II) dichloride with the CAS number 75763-82-5.
  *

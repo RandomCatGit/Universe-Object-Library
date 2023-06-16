@@ -7,14 +7,6 @@ import com.uol.organism.cell.organelle.eukaryote.EndoplasmicReticulum;
 import com.uol.organism.cell.organelle.eukaryote.Nucleolus;
 import com.uol.organism.cell.organelle.eukaryote.Nucleus;
 
-/*
- * RWO: Fibroblast
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/10/2019
- */
-
 /**
  * Fibroblast is a type of biological cell that synthesizes the extracellular matrix and collagen, produces the
  * structural framework (stroma) for animal tissues, and plays a critical role in wound healing. Fibroblasts are the

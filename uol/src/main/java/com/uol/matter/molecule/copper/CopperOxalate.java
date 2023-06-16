@@ -2,14 +2,6 @@ package com.uol.matter.molecule.copper;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CopperOxalate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CopperOxalate is the RWO for the molecule copper oxalate with the CAS number 814-91-5.
  *

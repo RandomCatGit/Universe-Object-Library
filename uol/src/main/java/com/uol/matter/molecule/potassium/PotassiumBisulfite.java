@@ -2,14 +2,6 @@ package com.uol.matter.molecule.potassium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: PotassiumBisulfite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * PotassiumBisulfite is the RWO for the molecule potassium bisulfite with the CAS number 7773-03-7.
  *

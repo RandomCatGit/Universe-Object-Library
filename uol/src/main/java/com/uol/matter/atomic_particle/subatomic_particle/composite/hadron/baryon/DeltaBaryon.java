@@ -6,15 +6,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownQuark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.UpQuark;
 
-/*
- * RWO: DeltaBaryon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * DeltaBaryon is a family of subatomic particle made of three up or {@linkplain DownQuark}.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.niobium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Niobium_V_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Niobium_V_Iodide is the RWO for the molecule niobium(V) iodide with the CAS number 13779-92-5.
  *

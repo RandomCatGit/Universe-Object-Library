@@ -137,14 +137,6 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
-/*
- * RWP: Molecule
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWP								13/01/2018
- */
-
 /**
  * Molecule is the RWP class on common properties of all Molecules
  *

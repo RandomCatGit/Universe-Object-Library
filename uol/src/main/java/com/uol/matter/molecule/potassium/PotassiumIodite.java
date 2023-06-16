@@ -2,14 +2,6 @@ package com.uol.matter.molecule.potassium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: PotassiumIodite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * PotassiumIodite is the RWO for the molecule potassium iodite.
  *

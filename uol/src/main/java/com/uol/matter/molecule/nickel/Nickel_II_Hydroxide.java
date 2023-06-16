@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nickel;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Nickel_II_Hydroxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Nickel_II_Hydroxide is the RWO for the molecule nickel(II) hydroxide with the CAS number 12054-48-7.
  *

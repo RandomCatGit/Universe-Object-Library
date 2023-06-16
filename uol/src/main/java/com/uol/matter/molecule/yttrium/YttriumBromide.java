@@ -2,14 +2,6 @@ package com.uol.matter.molecule.yttrium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: YttriumBromide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * YttriumBromide is the RWO for the molecule yttrium bromide with the CAS number 13469-98-2.
  *

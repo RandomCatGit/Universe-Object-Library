@@ -2,14 +2,6 @@ package com.uol.matter.molecule.aluminium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Aluminium_IV_Oxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Aluminium_IV_Oxide is the RWO for the molecule Aluminium(IV) oxide with the CAS number 11092-32-3.
  *

@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.eukaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: TIGER_Domain
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * TIGER_Domain is a minor membraneless organelle in which messenger RibonucleicAcid (mRNA) encodes certain types of proteins to
  * find the appropriate environment for growth.

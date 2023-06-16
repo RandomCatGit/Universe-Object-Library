@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _8_Hydroxyquinoline
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _8_Hydroxyquinoline is the RWO for the molecule 8-hydroxyquinoline with the CAS number 148-24-3.
  *

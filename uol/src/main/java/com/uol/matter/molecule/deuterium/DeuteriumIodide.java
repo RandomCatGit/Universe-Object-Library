@@ -2,14 +2,6 @@ package com.uol.matter.molecule.deuterium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: DeuteriumIodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * DeuteriumIodide is the RWO for the molecule deuterium iodide.
  *

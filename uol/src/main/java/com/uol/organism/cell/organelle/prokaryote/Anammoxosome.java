@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.prokaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Anammoxosome
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Anammoxosome is a large intracytoplasmic compartment bounded by a single bilayer ladderane lipid-containing membrane
  * present in bacteria that perform anaerobic ammonium oxidation (anammox). This specific organelle is the site of

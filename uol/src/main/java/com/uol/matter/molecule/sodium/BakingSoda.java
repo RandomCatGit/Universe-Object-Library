@@ -2,14 +2,6 @@ package com.uol.matter.molecule.sodium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BakingSoda
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BakingSoda is the RWO for the molecule baking soda with the CAS number 144-55-8.
  *

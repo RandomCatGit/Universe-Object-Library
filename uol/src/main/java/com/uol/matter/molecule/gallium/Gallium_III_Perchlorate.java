@@ -2,14 +2,6 @@ package com.uol.matter.molecule.gallium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Gallium_III_Perchlorate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Gallium_III_Perchlorate is the RWO for the molecule gallium(III) perchlorate with the CAS number 17835-81-3.
  *

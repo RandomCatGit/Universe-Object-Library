@@ -6,14 +6,6 @@ import com.uol.matter.molecule.carbon.OleicAcid;
 import com.uol.matter.molecule.carbon.PalmiticAcid;
 import com.uol.matter.molecule.carbon.StearicAcid;
 
-/*
- * RWO: Cutin
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								20/02/2020
- */
-
 /**
  * Cutin is one of two waxy polymers that are the main components of the plant cuticle, which covers all aerial surfaces
  * of plants.

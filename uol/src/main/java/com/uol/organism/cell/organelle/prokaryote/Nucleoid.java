@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.prokaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Nucleoid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Nucleoid is an irregularly shaped region within the cell of a prokaryote that contains all or most of the genetic
  * material, called genophore.

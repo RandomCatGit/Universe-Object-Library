@@ -6,14 +6,6 @@ import com.uol.matter.molecule.carbon.AdenosineTriphosphate;
 import com.uol.matter.molecule.carbon.Chlorophyll;
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Chloroplast
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/01/2019
- */
-
 /**
  * Chloroplast is an organelle that contains {@linkplain Chlorophyll} which converts light into energy-storing molecules
  * {@linkplain AdenosineTriphosphate} (ATP) and {@linkplain NicotinamideAdenineDinucleotidePhosphate} (NADPH).

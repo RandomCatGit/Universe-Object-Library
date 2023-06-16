@@ -2,14 +2,6 @@ package com.uol.matter.molecule.arsenic;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ArsenicTriphosphide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ArsenicTriphosphide is the RWO for the molecule arsenic triphosphide with the CAS number 12511-95-4.
  *

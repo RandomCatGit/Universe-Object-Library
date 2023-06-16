@@ -2,14 +2,6 @@ package com.uol.matter.molecule.silver;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SilverBromide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SilverBromide is the RWO for the molecule silver bromide with the CAS number 7785-23-1.
  *

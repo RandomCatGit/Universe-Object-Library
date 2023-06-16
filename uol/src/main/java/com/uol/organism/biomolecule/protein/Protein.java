@@ -5,14 +5,6 @@ import java.util.Arrays;
 import com.uol.matter.molecule.Molecule;
 import com.uol.organism.biomolecule.amino_acid.AminoAcid;
 
-/*
- * RWO: Protein
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								04/02/2019
- */
-
 /**
  * Protein is a biomolecule consisting of one or more long chains of amino acid residues. Proteins perform a vast array
  * of functions within organisms, including catalysing metabolic reactions, DNA replication, responding to stimuli,

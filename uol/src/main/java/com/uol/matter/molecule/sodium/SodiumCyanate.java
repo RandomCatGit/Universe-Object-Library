@@ -2,14 +2,6 @@ package com.uol.matter.molecule.sodium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SodiumCyanate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SodiumCyanate is the RWO for the molecule sodium cyanate.
  *

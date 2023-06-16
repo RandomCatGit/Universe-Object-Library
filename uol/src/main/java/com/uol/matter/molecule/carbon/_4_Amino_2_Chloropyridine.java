@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _4_Amino_2_Chloropyridine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _4_Amino_2_Chloropyridine is the RWO for the molecule 4-amino-2-chloropyridine with the CAS number 14432-12-3.
  *

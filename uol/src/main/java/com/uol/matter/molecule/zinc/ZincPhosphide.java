@@ -2,14 +2,6 @@ package com.uol.matter.molecule.zinc;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ZincPhosphide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ZincPhosphide is the RWO for the molecule zinc phosphide with the CAS number 1314-84-7.
  *

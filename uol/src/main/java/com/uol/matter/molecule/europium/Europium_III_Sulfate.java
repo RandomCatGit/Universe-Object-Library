@@ -2,14 +2,6 @@ package com.uol.matter.molecule.europium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Europium_III_Sulfate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Europium_III_Sulfate is the RWO for the molecule europium(III) sulfate with the CAS number 13537-15-0.
  *

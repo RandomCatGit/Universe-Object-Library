@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.prokaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Carboxysome
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Carboxysome are bacterial compartments consisting of polyhedral protein shells filled with the enzyme
  * ribulose-1,5-bisphosphate carboxylase/oxygenase (RuBisCO) -the predominant enzyme in carbon fixation and the rate

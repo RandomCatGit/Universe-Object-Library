@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.saccharide;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Oligosaccharide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								04/02/2019
- */
-
 /**
  * Oligosaccharide is a saccharide polymer containing a small number of monosaccharides (simple sugars).
  *

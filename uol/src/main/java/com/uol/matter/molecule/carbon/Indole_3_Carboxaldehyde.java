@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Indole_3_Carboxaldehyde
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Indole_3_Carboxaldehyde is the RWO for the molecule indole-3-carboxaldehyde with the CAS number 487-89-8.
  *

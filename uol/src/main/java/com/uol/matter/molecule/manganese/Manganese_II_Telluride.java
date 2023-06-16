@@ -2,14 +2,6 @@ package com.uol.matter.molecule.manganese;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Manganese_II_Telluride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Manganese_II_Telluride is the RWO for the molecule manganese(II) telluride with the CAS number 12032-88-1.
  *

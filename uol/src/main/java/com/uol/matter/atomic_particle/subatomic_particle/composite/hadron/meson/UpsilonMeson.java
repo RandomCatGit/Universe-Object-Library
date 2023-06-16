@@ -6,15 +6,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.BottomAntiquark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.BottomQuark;
 
-/*
- * RWO: UpsilonMeson
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * UpsilonMeson is a quarkonium state (i.e. flavourless meson) formed from a {@linkplain BottomQuark} and its
  * antiparticle.

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.copper;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Copper_II_Telluride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Copper_II_Telluride is the RWO for the molecule copper(II) telluride with the CAS number 12019-23-7.
  *
