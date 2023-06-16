@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tungsten;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TungstateIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TungstateIon is the RWO for the molecule tungstate ion with the CAS number 14311-52-5.
  *

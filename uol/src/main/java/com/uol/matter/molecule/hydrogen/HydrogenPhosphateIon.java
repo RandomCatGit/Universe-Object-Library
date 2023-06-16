@@ -2,14 +2,6 @@ package com.uol.matter.molecule.hydrogen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: HydrogenPhosphateIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * HydrogenPhosphateIon is the RWO for the molecule hydrogen phosphate ion with the CAS number 14066-19-4.
  *

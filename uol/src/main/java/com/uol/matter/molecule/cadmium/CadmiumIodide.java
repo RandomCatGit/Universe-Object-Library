@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cadmium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CadmiumIodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CadmiumIodide is the RWO for the molecule cadmium iodide with the CAS number 7790-80-9.
  *

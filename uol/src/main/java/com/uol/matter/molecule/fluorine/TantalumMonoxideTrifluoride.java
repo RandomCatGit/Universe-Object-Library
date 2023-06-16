@@ -2,14 +2,6 @@ package com.uol.matter.molecule.fluorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TantalumMonoxideTrifluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TantalumMonoxideTrifluoride is the RWO for the molecule tantalum monoxide trifluoride with the CAS number 20263-47-2.
  *

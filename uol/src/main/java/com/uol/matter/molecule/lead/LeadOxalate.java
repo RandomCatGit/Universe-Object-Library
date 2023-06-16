@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lead;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: LeadOxalate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * LeadOxalate is the RWO for the molecule lead oxalate with the CAS number 814-93-7.
  *

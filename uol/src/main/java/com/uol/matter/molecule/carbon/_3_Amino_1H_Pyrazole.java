@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _3_Amino_1H_Pyrazole
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _3_Amino_1H_Pyrazole is the RWO for the molecule 3-amino-1H-pyrazole with the CAS number 1820-80-0.
  *

@@ -5,14 +5,6 @@ import java.util.Arrays;
 import com.uol.matter.molecule.iron.Magnetite;
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Magnetosome
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Magnetosome are membranous structures present in magnetotactic bacteria (MTB). They contain iron-rich magnetic
  * particles that are enclosed within a lipid bilayer membrane. Each magnetosome can often contain 15 to 20 magnetite

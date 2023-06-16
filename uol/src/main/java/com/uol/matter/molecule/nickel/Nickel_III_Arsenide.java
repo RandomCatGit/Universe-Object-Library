@@ -2,14 +2,6 @@ package com.uol.matter.molecule.nickel;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Nickel_III_Arsenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Nickel_III_Arsenide is the RWO for the molecule nickel(III) arsenide with the CAS number 27016-75-7.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.strontium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: StrontiumOrthomolybdate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * StrontiumOrthomolybdate is the RWO for the molecule strontium orthomolybdate with the CAS number 13470-04-7.
  *

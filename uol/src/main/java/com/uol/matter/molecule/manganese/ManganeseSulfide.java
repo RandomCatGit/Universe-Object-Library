@@ -2,14 +2,6 @@ package com.uol.matter.molecule.manganese;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ManganeseSulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ManganeseSulfide is the RWO for the molecule manganese sulfide with the CAS number 18820-29-6.
  *

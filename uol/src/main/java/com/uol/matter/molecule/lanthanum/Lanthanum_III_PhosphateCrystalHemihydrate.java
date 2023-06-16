@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lanthanum;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Lanthanum_III_PhosphateCrystalHemihydrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Lanthanum_III_PhosphateCrystalHemihydrate is the RWO for the molecule lanthanum(III) phosphate crystal hemihydrate.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.arsenic;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ArsenicTetrasulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ArsenicTetrasulfide is the RWO for the molecule arsenic tetrasulfide with the CAS number 1303-32-8.
  *

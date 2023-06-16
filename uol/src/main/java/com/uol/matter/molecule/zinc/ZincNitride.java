@@ -2,14 +2,6 @@ package com.uol.matter.molecule.zinc;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ZincNitride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ZincNitride is the RWO for the molecule zinc nitride with the CAS number 1313-49-1.
  *

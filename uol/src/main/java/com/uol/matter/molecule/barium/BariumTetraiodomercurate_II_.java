@@ -2,14 +2,6 @@ package com.uol.matter.molecule.barium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BariumTetraiodomercurate_II_
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BariumTetraiodomercurate_II_ is the RWO for the molecule barium tetraiodomercurate(II) with the CAS number 10048-99-4.
  *

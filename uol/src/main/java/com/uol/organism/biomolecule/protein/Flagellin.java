@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.protein;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Flagellin
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								13/02/2019
- */
-
 /**
  * Flagellin is a globular protein that arranges itself in a hollow cylinder to form the filament in a bacterial
  * flagellum. It has a mass of about 30,000 to 60,000 daltons.

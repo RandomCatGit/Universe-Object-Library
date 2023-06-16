@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tungsten;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TungstenCarbide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TungstenCarbide is the RWO for the molecule tungsten carbide with the CAS number 12070-13-2.
  *

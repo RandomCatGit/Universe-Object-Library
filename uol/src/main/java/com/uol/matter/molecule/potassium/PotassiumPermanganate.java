@@ -2,14 +2,6 @@ package com.uol.matter.molecule.potassium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: PotassiumPermanganate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * PotassiumPermanganate is the RWO for the molecule potassium permanganate with the CAS number 7722-64-7.
  *

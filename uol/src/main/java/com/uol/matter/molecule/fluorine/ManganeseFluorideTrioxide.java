@@ -2,14 +2,6 @@ package com.uol.matter.molecule.fluorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ManganeseFluorideTrioxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ManganeseFluorideTrioxide is the RWO for the molecule manganese fluoride trioxide with the CAS number 15586-97-7.
  *

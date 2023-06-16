@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _2_4_DichlorophenoxyaceticAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _2_4_DichlorophenoxyaceticAcid is the RWO for the molecule 2,4-dichlorophenoxyacetic acid with the CAS number 94-75-7.
  *

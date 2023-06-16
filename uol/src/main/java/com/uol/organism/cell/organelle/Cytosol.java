@@ -4,14 +4,6 @@ import java.util.Arrays;
 
 import com.uol.organism.biomolecule.amino_acid.AminoAcid;
 
-/*
- * RWO: Cytosol
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
- */
-
 /**
  * Cytosol is also known as intracellular fluid (ICF) or cytoplasmic matrix, or groundplasm. It is the liquid found
  * inside cells and is separated into compartments by membranes.

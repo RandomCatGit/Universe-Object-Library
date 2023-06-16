@@ -2,14 +2,6 @@ package com.uol.matter.molecule.phosphorus;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: DiphosphorusTriselenide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * DiphosphorusTriselenide is the RWO for the molecule diphosphorus triselenide with the CAS number 1314-81-4.
  *

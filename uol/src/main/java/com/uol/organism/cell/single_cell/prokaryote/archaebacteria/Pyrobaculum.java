@@ -5,14 +5,6 @@ import java.util.Arrays;
 import com.uol.organism.cell.Cell;
 import com.uol.organism.cell.organelle.Flagellum;
 
-/*
- * RWO: Pyrobaculum
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
- */
-
 /**
  * Pyrobaculum is rod-shaped and isolated from locations with high temperatures. It is Gram-negative and its cells are
  * surrounded by an S-layer of protein subunits.

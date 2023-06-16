@@ -7,15 +7,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownQuark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.UpQuark;
 
-/*
- * RWO: DoubleBottomXiBaryon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * DoubleBottomXiBaryon is a {@linkplain XiBaryon} with two {@linkplain BottomQuark}.
  *

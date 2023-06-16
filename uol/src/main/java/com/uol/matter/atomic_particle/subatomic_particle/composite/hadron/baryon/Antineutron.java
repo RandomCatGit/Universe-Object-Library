@@ -6,16 +6,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownAntiquark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.UpAntiquark;
 
-/*
- * RWO: Antineutron
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified 								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * Antineutron is the antiparticle of the {@linkplain Neutron}.
  * 

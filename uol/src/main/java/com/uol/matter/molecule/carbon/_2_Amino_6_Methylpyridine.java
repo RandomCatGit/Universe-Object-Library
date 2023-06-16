@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _2_Amino_6_Methylpyridine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _2_Amino_6_Methylpyridine is the RWO for the molecule 2-amino-6-methylpyridine with the CAS number 1824-81-3.
  *

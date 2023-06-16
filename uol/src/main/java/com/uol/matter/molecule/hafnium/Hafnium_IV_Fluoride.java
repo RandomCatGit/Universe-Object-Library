@@ -2,14 +2,6 @@ package com.uol.matter.molecule.hafnium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Hafnium_IV_Fluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Hafnium_IV_Fluoride is the RWO for the molecule hafnium(IV) fluoride with the CAS number 13709-52-9.
  *

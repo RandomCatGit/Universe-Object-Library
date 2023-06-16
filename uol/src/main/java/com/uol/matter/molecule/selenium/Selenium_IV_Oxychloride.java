@@ -2,14 +2,6 @@ package com.uol.matter.molecule.selenium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Selenium_IV_Oxychloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Selenium_IV_Oxychloride is the RWO for the molecule selenium(IV) oxychloride with the CAS number 7791-23-3.
  *

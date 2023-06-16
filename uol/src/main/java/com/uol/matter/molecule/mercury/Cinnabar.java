@@ -2,14 +2,6 @@ package com.uol.matter.molecule.mercury;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Cinnabar
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Cinnabar is the RWO for the molecule cinnabar with the CAS number 1344-48-5.
  *

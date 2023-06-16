@@ -2,14 +2,6 @@ package com.uol.matter.molecule.titanium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Titanium_IV_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Titanium_IV_Iodide is the RWO for the molecule titanium(IV) iodide with the CAS number 7720-83-4.
  *

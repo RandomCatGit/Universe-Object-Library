@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.amino_acid;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Selenocysteine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								04/02/2019
- */
-
 /**
  * Selenocysteine is a cysteine analogue with a selenium-containing selenol group in place of the sulfur-containing
  * thiol group with the CAS number 10236-58-5.

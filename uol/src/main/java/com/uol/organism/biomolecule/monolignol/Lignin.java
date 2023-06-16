@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.monolignol;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Lignin
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								04/02/2019
- */
-
 /**
  * Lignin is a class of complex organic polymers that form key structural materials in the support tissues of vascular
  * plants and some algae. Lignins are particularly important in the formation of cell walls, especially in wood and

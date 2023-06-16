@@ -2,14 +2,6 @@ package com.uol.matter.molecule.copper;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Chalcopyrite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Chalcopyrite is the RWO for the molecule chalcopyrite with the CAS number 12015-76-8.
  *

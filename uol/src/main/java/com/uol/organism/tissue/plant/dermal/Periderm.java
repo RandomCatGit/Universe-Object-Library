@@ -6,14 +6,6 @@ import com.uol.organism.cell.multi_cell.eukaryote.plant.Phellem;
 import com.uol.organism.cell.multi_cell.eukaryote.plant.Phelloderm;
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: Periderm
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								20/02/2020
- */
-
 /**
  * Periderm is the secondary covering that forms on small woody stems and many non-woody plants, which is composed of
  * cork (phellem), the cork cambium (phellogen), and the phelloderm.

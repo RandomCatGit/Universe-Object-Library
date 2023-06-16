@@ -2,14 +2,6 @@ package com.uol.matter.molecule.copper;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Malachite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Malachite is the RWO for the molecule malachite with the CAS number 1319-53-5.
  *

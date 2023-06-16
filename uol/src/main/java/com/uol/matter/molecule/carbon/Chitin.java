@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Chitin
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
- */
-
 /**
  * Chitin is a long-chain polymer of N-acetylglucosamine, is a derivative of glucose. It is a primary component of cell
  * walls in fungi, the exoskeletons of arthropods, such as crustaceans and insects, the radulae of molluscs, cephalopod

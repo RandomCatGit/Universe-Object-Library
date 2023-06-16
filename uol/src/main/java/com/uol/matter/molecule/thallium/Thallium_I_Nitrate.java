@@ -2,14 +2,6 @@ package com.uol.matter.molecule.thallium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Thallium_I_Nitrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Thallium_I_Nitrate is the RWO for the molecule thallium(I) nitrate with the CAS number 10102-45-1.
  *

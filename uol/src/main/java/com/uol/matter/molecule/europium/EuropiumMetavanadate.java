@@ -2,14 +2,6 @@ package com.uol.matter.molecule.europium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: EuropiumMetavanadate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * EuropiumMetavanadate is the RWO for the molecule europium metavanadate with the CAS number 39432-21-8.
  *

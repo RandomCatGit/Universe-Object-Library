@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Boc_4_Aminopiperidine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Boc_4_Aminopiperidine is the RWO for the molecule boc-4-aminopiperidine with the CAS number 87120-72-7.
  *

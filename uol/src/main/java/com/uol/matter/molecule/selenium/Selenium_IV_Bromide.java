@@ -2,14 +2,6 @@ package com.uol.matter.molecule.selenium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Selenium_IV_Bromide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Selenium_IV_Bromide is the RWO for the molecule selenium(IV) bromide with the CAS number 7789-65-3.
  *

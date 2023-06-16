@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cobalt;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Cobalt_III_Nitrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Cobalt_III_Nitrate is the RWO for the molecule cobalt(III) nitrate with the CAS number 15520-84-0.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.beryllium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Beryl
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Beryl is the RWO for the molecule beryl with the CAS number 1302-52-9.
  *

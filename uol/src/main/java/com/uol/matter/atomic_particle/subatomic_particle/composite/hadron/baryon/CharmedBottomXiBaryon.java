@@ -8,15 +8,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.DownQuark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.UpQuark;
 
-/*
- * RWO: CharmedBottomXiBaryon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * CharmedBottomXiBaryon is a {@linkplain XiBaryon} with charm and {@linkplain BottomQuark}.
  *

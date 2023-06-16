@@ -2,14 +2,6 @@ package com.uol.matter.molecule.europium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: DieuropiumDisulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * DieuropiumDisulfide is the RWO for the molecule dieuropium disulfide with the CAS number 62462-51-5.
  *

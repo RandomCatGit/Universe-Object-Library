@@ -2,14 +2,6 @@ package com.uol.matter.molecule.hafnium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Hafnium_IV_Sulfate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Hafnium_IV_Sulfate is the RWO for the molecule hafnium(IV) sulfate with the CAS number 15823-43-5.
  *

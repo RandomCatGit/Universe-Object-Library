@@ -2,14 +2,6 @@ package com.uol.matter.molecule.europium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: EuropiumTitaniumTrioxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * EuropiumTitaniumTrioxide is the RWO for the molecule europium titanium trioxide with the CAS number 12020-61-0.
  *

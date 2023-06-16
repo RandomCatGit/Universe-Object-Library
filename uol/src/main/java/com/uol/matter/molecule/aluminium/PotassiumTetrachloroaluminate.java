@@ -2,14 +2,6 @@ package com.uol.matter.molecule.aluminium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: PotassiumTetrachloroaluminate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * PotassiumTetrachloroaluminate is the RWO for the molecule potassium tetrachloroaluminate with the CAS number 13821-13-1.
  *

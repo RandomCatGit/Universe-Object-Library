@@ -6,15 +6,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.CharmAntiquark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.CharmQuark;
 
-/*
- * RWO: JPsiMeson
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * JPsiMeson is a subatomic particle, a flavor-neutral meson consisting of a {@linkplain CharmQuark} and a
  * {@linkplain CharmAntiquark}.

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.gold;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Gold_III_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Gold_III_Iodide is the RWO for the molecule gold(III) iodide with the CAS number 31032-13-0.
  *

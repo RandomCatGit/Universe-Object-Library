@@ -2,14 +2,6 @@ package com.uol.organism.cell.multi_cell.eukaryote.plant;
 
 import com.uol.organism.cell.Cell;
 
-/*
- * RWO: Tracheid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								11/03/2022
- */
-
 /**
  * Tracheid is a long and tapered lignified cell in the xylem of vascular plants. It is a type of conductive cell called
  * a tracheary element.

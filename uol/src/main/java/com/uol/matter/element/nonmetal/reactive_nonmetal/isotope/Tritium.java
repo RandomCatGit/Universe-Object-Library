@@ -3,14 +3,6 @@ package com.uol.matter.element.nonmetal.reactive_nonmetal.isotope;
 import com.uol.matter.atomic_particle.Atom;
 import com.uol.matter.element.Element;
 
-/*
- * RWO: Tritium
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Tritium is an isotope of {@linkplain Hydrogen} with two neutrons.
  *

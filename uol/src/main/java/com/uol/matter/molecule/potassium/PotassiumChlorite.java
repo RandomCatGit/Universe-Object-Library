@@ -2,14 +2,6 @@ package com.uol.matter.molecule.potassium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: PotassiumChlorite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * PotassiumChlorite is the RWO for the molecule potassium chlorite with the CAS number 14314-27-3.
  *

@@ -6,14 +6,6 @@ import com.uol.organism.biomolecule.protein.Protein;
 import com.uol.organism.biomolecule.saccharide.Glycogen;
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Glycosome
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Glycosome is a membrane-enclosed organelle that contains the glycolytic enzymes.
  *

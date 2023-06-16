@@ -2,14 +2,6 @@ package com.uol.matter.molecule.beryllium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BerylliumBorohydride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BerylliumBorohydride is the RWO for the molecule beryllium borohydride with the CAS number 17440-85-6.
  *

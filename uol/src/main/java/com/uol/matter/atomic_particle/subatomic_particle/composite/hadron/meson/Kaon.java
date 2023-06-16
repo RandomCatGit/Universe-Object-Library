@@ -7,15 +7,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.StrangeAntiquark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.UpQuark;
 
-/*
- * RWO: Kaon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * Kaon is any of a group of four mesons distinguished by a quantum number called strangeness.
  *

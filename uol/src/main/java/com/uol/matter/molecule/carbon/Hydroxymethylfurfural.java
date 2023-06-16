@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Hydroxymethylfurfural
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Hydroxymethylfurfural is the RWO for the molecule hydroxymethylfurfural with the CAS number 67-47-0.
  *

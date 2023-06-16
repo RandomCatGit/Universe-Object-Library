@@ -2,14 +2,6 @@ package com.uol.matter.molecule.chromium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ChromateIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ChromateIon is the RWO for the molecule chromate ion with the CAS number 13907-45-4.
  *

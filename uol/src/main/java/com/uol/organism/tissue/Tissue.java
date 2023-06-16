@@ -10,14 +10,6 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
-/*
- * RWP: Tissue
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWP								22/10/2019
- */
-
 /**
  * Tissue is the RWP class of common properties of all Tissues present in organisms.
  *

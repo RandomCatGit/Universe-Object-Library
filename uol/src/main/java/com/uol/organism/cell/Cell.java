@@ -10,14 +10,6 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
-/*
- * RWP: Cell
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWP								18/05/2019
- */
-
 /**
  * Cell is the RWP class of common properties of all Cells(Organisms).
  *

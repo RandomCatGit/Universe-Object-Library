@@ -2,14 +2,6 @@ package com.uol.matter.molecule.ytterbium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Ytterbium_III_Sulfide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Ytterbium_III_Sulfide is the RWO for the molecule ytterbium(III) sulfide with the CAS number 12039-20-2.
  *

@@ -5,15 +5,6 @@ import java.util.Arrays;
 import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.BottomQuark;
 
-/*
- * RWO: BottomEtaMeson
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * BottomEtaMeson is a form of quarkonium and is made of {@linkplain BottomQuark}.
  *

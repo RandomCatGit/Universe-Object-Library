@@ -2,14 +2,6 @@ package com.uol.matter.molecule.iodine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: IodinePentoxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * IodinePentoxide is the RWO for the molecule iodine pentoxide with the CAS number 12029-98-0.
  *

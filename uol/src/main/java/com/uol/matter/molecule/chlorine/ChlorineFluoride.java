@@ -2,14 +2,6 @@ package com.uol.matter.molecule.chlorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ChlorineFluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ChlorineFluoride is the RWO for the molecule chlorine fluoride with the CAS number 7790-89-8.
  *

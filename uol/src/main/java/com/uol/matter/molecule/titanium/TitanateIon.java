@@ -2,14 +2,6 @@ package com.uol.matter.molecule.titanium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TitanateIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TitanateIon is the RWO for the molecule titanate ion.
  *

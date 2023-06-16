@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.eukaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Hydrogenosome
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Hydrogenosome is a membrane-enclosed organelle of some anaerobic ciliates, trichomonads, fungi, and animals.
  *

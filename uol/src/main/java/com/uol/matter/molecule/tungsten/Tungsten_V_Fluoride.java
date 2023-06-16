@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tungsten;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Tungsten_V_Fluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Tungsten_V_Fluoride is the RWO for the molecule tungsten(V) fluoride with the CAS number 19357-83-6.
  *

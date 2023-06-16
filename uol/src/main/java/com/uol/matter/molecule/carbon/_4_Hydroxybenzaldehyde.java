@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _4_Hydroxybenzaldehyde
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _4_Hydroxybenzaldehyde is the RWO for the molecule 4-hydroxybenzaldehyde with the CAS number 123-08-0.
  *

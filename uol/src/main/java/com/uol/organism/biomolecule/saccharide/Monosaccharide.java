@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.saccharide;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Monosaccharide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								04/02/2019
- */
-
 /**
  * Monosaccharide is the simplest form of sugar and the most basic units of carbohydrates.
  *

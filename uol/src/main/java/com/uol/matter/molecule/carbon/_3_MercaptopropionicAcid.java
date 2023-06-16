@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _3_MercaptopropionicAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _3_MercaptopropionicAcid is the RWO for the molecule 3-Mercaptopropionic acid with the CAS number 107-96-0.
  *

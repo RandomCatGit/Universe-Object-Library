@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cadmium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CadmiumHydroxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CadmiumHydroxide is the RWO for the molecule cadmium hydroxide with the CAS number 21041-95-2.
  *

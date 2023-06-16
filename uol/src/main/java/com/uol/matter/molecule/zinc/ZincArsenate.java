@@ -2,14 +2,6 @@ package com.uol.matter.molecule.zinc;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ZincArsenate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ZincArsenate is the RWO for the molecule zinc arsenate with the CAS number 13464-44-3.
  *

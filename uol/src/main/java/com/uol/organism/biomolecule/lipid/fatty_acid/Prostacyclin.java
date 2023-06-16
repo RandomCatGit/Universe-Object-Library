@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.lipid.fatty_acid;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Prostacyclin
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								05/02/2019
- */
-
 /**
  * Prostacyclin is a prostaglandin member of the eicosanoid family of lipid molecules. It inhibits platelet activation
  * and is also an effective vasodilator. It has the CAS number 35121-78-9.

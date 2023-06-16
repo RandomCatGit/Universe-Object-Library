@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cadmium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CadmiumPhosphate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CadmiumPhosphate is the RWO for the molecule cadmium phosphate with the CAS number 13477-17-3.
  *

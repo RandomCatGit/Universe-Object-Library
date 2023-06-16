@@ -2,14 +2,6 @@ package com.uol.matter.molecule.strontium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: StrontiumIodite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * StrontiumIodite is the RWO for the molecule strontium iodite.
  *

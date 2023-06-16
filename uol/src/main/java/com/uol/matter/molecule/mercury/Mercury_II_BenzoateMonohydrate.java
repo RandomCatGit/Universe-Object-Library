@@ -2,14 +2,6 @@ package com.uol.matter.molecule.mercury;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Mercury_II_BenzoateMonohydrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Mercury_II_BenzoateMonohydrate is the RWO for the molecule mercury(II) benzoate monohydrate.
  *

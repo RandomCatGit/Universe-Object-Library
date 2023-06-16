@@ -2,14 +2,6 @@ package com.uol.matter.molecule.oxygen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: DioxygenDifluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * DioxygenDifluoride is the RWO for the molecule dioxygen difluoride with the CAS number 7783-44-0.
  *

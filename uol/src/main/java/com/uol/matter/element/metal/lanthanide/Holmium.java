@@ -3,16 +3,6 @@ package com.uol.matter.element.metal.lanthanide;
 import com.uol.matter.atomic_particle.Atom;
 import com.uol.matter.element.Element;
 
-/*
- * RWO: Holmium
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								10/01/2019
- * RandomCatGit					Added valence property					29/11/2019
- * RandomCatGit					Changed elementary class to final		13/04/2022
- */
-
 /**
  * Holmium is the 67th element in the periodic table.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cobalt;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Cobalt_II_Oxalate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Cobalt_II_Oxalate is the RWO for the molecule cobalt(II) oxalate with the CAS number 814-89-1.
  *

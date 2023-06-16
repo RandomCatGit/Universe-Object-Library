@@ -2,14 +2,6 @@ package com.uol.matter.molecule.indium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Indium_III_Chloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Indium_III_Chloride is the RWO for the molecule indium(III) chloride with the CAS number 10025-82-8.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.dysprosium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Dysprosium_II_Chloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Dysprosium_II_Chloride is the RWO for the molecule dysprosium(II) chloride with the CAS number 13767-31-2.
  *

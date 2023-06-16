@@ -2,14 +2,6 @@ package com.uol.matter.molecule.thorium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Thorium_IV_Oxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Thorium_IV_Oxide is the RWO for the molecule thorium(IV) oxide.
  *

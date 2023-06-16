@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.lipid.prenol_lipid;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Ubiquinone
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								05/02/2019
- */
-
 /**
  * Ubiquinone is a fat-soluble substance, which resembles a vitamin, is present in all respiring eukaryotic cells,
  * primarily in the mitochondria. It is a component of the electron transport chain and participates in aerobic cellular

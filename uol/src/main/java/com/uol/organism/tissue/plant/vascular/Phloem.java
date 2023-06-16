@@ -9,15 +9,6 @@ import com.uol.organism.cell.multi_cell.eukaryote.plant.Sclereid;
 import com.uol.organism.cell.multi_cell.eukaryote.plant.SieveTubeElement;
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: Phloem
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								09/03/2020
- * RandomCatGit					Added Cells								11/03/2022
- */
-
 /**
  * Phloem is the living tissue in vascular plants that transports the soluble organic compounds made during
  * photosynthesis and known as photosynthates, in particular the sugar sucrose, to parts of the plant where needed.

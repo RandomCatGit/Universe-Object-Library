@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Indole_2_CarboxylicAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Indole_2_CarboxylicAcid is the RWO for the molecule indole-2-carboxylic acid with the CAS number 1477-50-5.
  *

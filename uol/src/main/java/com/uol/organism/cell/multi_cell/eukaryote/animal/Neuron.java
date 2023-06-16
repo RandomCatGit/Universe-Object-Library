@@ -4,14 +4,6 @@ import com.uol.organism.cell.Cell;
 
 import lombok.Getter;
 
-/*
- * RWO: Neuron
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/10/2019
- */
-
 /**
  * Neuron or nerve cell, is an electrically excitable cell that communicates with other cells via specialized
  * connections called synapses. It is the main component of nervous tissue. All animals except sponges and placozoans

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.zinc;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ZincTelluride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ZincTelluride is the RWO for the molecule zinc telluride with the CAS number 1315-11-3.
  *

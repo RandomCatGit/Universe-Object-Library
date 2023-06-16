@@ -2,14 +2,6 @@ package com.uol.matter.molecule.gallium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Gallium_III_Hydroxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Gallium_III_Hydroxide is the RWO for the molecule gallium(III) hydroxide with the CAS number 12023-99-3.
  *

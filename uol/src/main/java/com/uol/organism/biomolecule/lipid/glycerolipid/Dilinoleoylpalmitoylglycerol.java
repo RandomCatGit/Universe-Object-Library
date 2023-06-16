@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.lipid.glycerolipid;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Dilinoleoylpalmitoylglycerol
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								05/02/2019
- */
-
 /**
  * Dilinoleoylpalmitoylglycerol is an unsaturated fat triglyceride which consists of glycerol, palmitic acid, oleic acid
  * and alpha-linolenic acid.

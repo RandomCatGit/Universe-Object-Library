@@ -2,14 +2,6 @@ package com.uol.matter.molecule.vanadium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: VanadiumNitride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * VanadiumNitride is the RWO for the molecule vanadium nitride with the CAS number 24646-85-3.
  *

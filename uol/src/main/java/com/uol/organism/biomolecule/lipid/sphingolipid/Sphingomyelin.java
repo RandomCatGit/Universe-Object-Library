@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.lipid.sphingolipid;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Sphingomyelin
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								05/02/2019
- */
-
 /**
  * Sphingomyelin is a type of sphingolipid found in animal cell membranes, especially in the membranous myelin sheath
  * that surrounds some nerve cell axons. It has a CAS number 85187-10-6.

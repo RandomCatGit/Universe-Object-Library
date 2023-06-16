@@ -11,14 +11,6 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
-/*
- * RWP: Organelle
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWP								23/01/2018
- */
-
 /**
  * Organelle is the RWP class on common properties of all Organelles.
  *

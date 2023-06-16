@@ -9,14 +9,6 @@ import com.uol.organism.cell.organelle.RNA;
 import com.uol.organism.cell.organelle.Ribosome;
 import com.uol.organism.cell.organelle.prokaryote.Pilus;
 
-/*
- * RWO: EscherichiaColi
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
- */
-
 /**
  * EscherichiaColi also known as E. coli is a Gram-negative, facultative anaerobic, rod-shaped, coliform bacterium of
  * the genus Escherichia that is commonly found in the lower intestine of warm-blooded organisms (endotherms).

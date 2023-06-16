@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cadmium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CadmiumNitrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CadmiumNitrate is the RWO for the molecule cadmium nitrate with the CAS number 10325-94-7.
  *

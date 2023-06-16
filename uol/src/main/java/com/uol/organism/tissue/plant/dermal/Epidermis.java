@@ -6,14 +6,6 @@ import com.uol.organism.cell.multi_cell.eukaryote.plant.Cuticle;
 import com.uol.organism.cell.multi_cell.eukaryote.plant.GuardCell;
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: Epidermis
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								20/02/2020
- */
-
 /**
  * Epidermis is a single layer of cells that covers the leaves, flowers, roots and stems of plants. It forms a boundary
  * between the plant and the external environment. The epidermis serves several functions: it protects against water

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.oxygen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: OzonideIon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * OzonideIon is the RWO for the molecule ozonide ion with the CAS number 12596-80-4.
  *

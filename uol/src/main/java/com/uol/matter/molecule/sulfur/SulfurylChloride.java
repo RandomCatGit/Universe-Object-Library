@@ -2,14 +2,6 @@ package com.uol.matter.molecule.sulfur;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SulfurylChloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SulfurylChloride is the RWO for the molecule sulfuryl chloride with the CAS number 7791-25-5.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.thorium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ThoriumCarbonate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ThoriumCarbonate is the RWO for the molecule thorium carbonate with the CAS number 19024-62-5.
  *

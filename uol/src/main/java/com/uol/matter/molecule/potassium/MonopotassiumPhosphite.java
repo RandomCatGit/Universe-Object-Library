@@ -2,14 +2,6 @@ package com.uol.matter.molecule.potassium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: MonopotassiumPhosphite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * MonopotassiumPhosphite is the RWO for the molecule monopotassium phosphite.
  *

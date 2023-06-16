@@ -5,14 +5,6 @@ import java.util.Arrays;
 import com.uol.organism.cell.multi_cell.eukaryote.animal.BrownFatCell;
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: BrownAdiposeTissue
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								22/10/2019
- */
-
 /**
  * BrownAdiposeTissue (BAT) or brown fat makes up the adipose organ together with white adipose tissue (or white fat).
  * Brown adipose tissue is found in almost all mammals.

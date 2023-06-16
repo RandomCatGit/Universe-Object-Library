@@ -2,14 +2,6 @@ package com.uol.matter.molecule.antimony;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Antimony_V_Chloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Antimony_V_Chloride is the RWO for the molecule antimony(V) chloride with the CAS number 7647-18-9.
  *

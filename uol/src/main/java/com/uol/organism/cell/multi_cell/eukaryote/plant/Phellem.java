@@ -5,14 +5,6 @@ import java.util.Arrays;
 import com.uol.organism.cell.Cell;
 import com.uol.organism.cell.organelle.Suberin;
 
-/*
- * RWO: Phellem
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								20/02/2020
- */
-
 /**
  * Phellem or Cork is composed of suberin, a hydrophobic substance. Because of its impermeable, buoyant, elastic, and
  * fire retardant properties, it is used in a variety of products, the most common of which is wine stoppers.

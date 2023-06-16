@@ -2,14 +2,6 @@ package com.uol.organism.biomolecule.amino_acid;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: AminoAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								04/02/2019
- */
-
 /**
  * AminoAcid are important in nutrition and are commonly used in nutritional supplements, fertilizers, feed, and food
  * technology. They contain both amino and carboxylic acid functional groups.

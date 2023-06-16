@@ -2,14 +2,6 @@ package com.uol.matter.molecule.boron;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BoronCarbide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BoronCarbide is the RWO for the molecule boron carbide with the CAS number 12069-32-8.
  *

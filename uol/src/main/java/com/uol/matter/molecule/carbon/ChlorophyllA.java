@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ChlorophyllA
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/01/2019
- */
-
 /**
  * ChlorophyllA is the RWO for the molecule chlorophyll a.
  *

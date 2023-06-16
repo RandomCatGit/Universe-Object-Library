@@ -2,14 +2,6 @@ package com.uol.matter.molecule.hydrogen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TelluricAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TelluricAcid is the RWO for the molecule telluric acid with the CAS number 7803-68-1.
  *

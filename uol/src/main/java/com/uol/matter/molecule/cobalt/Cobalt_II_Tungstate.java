@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cobalt;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Cobalt_II_Tungstate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Cobalt_II_Tungstate is the RWO for the molecule cobalt(II) tungstate with the CAS number 12640-47-0.
  *

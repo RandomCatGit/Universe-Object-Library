@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _2_Amino_4_Methylpyridine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _2_Amino_4_Methylpyridine is the RWO for the molecule 2-amino-4-methylpyridine with the CAS number 695-34-1.
  *

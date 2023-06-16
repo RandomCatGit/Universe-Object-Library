@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _2_HydroxypropylAcrylate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _2_HydroxypropylAcrylate is the RWO for the molecule 2-hydroxypropyl acrylate with the CAS number 25584-83-2.
  *

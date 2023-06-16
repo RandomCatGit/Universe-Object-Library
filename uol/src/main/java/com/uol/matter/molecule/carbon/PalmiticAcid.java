@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: PalmiticAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								20/02/2020
- */
-
 /**
  * PalmiticAcid or hexadecanoic acid in IUPAC nomenclature, is the most common saturated fatty acid found in animals,
  * plants and microorganisms.

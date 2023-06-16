@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _5_Bromo_2_Chloropyrimidine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _5_Bromo_2_Chloropyrimidine is the RWO for the molecule 5-bromo-2-chloropyrimidine with the CAS number 32779-36-5.
  *

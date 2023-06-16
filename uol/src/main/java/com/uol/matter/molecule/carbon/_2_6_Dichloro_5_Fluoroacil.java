@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _2_6_Dichloro_5_Fluoroacil
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _2_6_Dichloro_5_Fluoroacil is the RWO for the molecule 2,6-dichloro-5-fluoroacil with the CAS number 2927-71-1.
  *

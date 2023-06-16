@@ -2,14 +2,6 @@ package com.uol.matter.molecule.europium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: EuropiumTungstenTetraoxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * EuropiumTungstenTetraoxide is the RWO for the molecule europium tungsten tetraoxide with the CAS number 13537-12-7.
  *

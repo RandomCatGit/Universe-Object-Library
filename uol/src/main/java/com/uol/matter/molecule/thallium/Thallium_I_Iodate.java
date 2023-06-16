@@ -2,14 +2,6 @@ package com.uol.matter.molecule.thallium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Thallium_I_Iodate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Thallium_I_Iodate is the RWO for the molecule thallium(I) iodate with the CAS number 14767-09-0.
  *

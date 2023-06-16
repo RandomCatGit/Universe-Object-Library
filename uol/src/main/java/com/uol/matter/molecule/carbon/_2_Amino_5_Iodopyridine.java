@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: _2_Amino_5_Iodopyridine
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * _2_Amino_5_Iodopyridine is the RWO for the molecule 2-amino-5-iodopyridine with the CAS number 20511-12-0.
  *

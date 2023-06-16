@@ -2,14 +2,6 @@ package com.uol.matter.molecule.vanadium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: BariumChromate_VI_
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * BariumChromate_VI_ is the RWO for the molecule barium chromate(VI) with the CAS number 10294-40-3.
  *

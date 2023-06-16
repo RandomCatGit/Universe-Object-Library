@@ -7,15 +7,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quar
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.StrangeQuark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.UpQuark;
 
-/*
- * RWO: XiResonanceBaryon
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * XiResonanceBaryon is an excited baryon state with short half lives and higher masses.
  *

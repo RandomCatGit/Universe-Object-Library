@@ -2,14 +2,6 @@ package com.uol.matter.molecule.zirconium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ZirconiumFluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ZirconiumFluoride is the RWO for the molecule zirconium fluoride with the CAS number 7783-64-4.
  *

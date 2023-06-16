@@ -2,14 +2,6 @@ package com.uol.matter.molecule.hydrogen;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: DithionousAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * DithionousAcid is the RWO for the molecule dithionous acid with the CAS number 15959-26-9.
  *

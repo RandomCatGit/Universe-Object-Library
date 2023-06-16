@@ -2,14 +2,6 @@ package com.uol.matter.molecule.thulium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Thulium_III_Nitrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Thulium_III_Nitrate is the RWO for the molecule thulium(III) nitrate.
  *

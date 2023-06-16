@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.prokaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: Thylakoid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * Thylakoid is a membrane-bound compartment inside chloroplasts and cyanobacteria. They are the site of the
  * light-dependent reactions of photosynthesis.

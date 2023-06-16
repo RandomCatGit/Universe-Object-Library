@@ -2,14 +2,6 @@ package com.uol.matter.molecule.bismuth;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Bismuth_III_Oxychloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Bismuth_III_Oxychloride is the RWO for the molecule bismuth(III) oxychloride with the CAS number 7787-59-9.
  *

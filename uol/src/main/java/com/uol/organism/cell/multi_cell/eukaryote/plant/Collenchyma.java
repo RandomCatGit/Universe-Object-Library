@@ -2,14 +2,6 @@ package com.uol.organism.cell.multi_cell.eukaryote.plant;
 
 import com.uol.organism.cell.Cell;
 
-/*
- * RWO: Collenchyma
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								18/05/2019
- */
-
 /**
  * Collenchyma are alive at maturity and have thickened cellulosic cell walls.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.germanium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Germanium_II_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Germanium_II_Iodide is the RWO for the molecule germanium(II) iodide with the CAS number 13573-08-5.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.zirconium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ZirconiumBoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ZirconiumBoride is the RWO for the molecule zirconium boride with the CAS number 12045-64-6.
  *

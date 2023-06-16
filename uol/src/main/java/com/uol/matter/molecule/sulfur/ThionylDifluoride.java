@@ -2,14 +2,6 @@ package com.uol.matter.molecule.sulfur;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: ThionylDifluoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * ThionylDifluoride is the RWO for the molecule thionyl difluoride with the CAS number 7783-42-8.
  *

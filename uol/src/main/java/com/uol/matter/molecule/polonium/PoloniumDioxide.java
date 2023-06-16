@@ -2,14 +2,6 @@ package com.uol.matter.molecule.polonium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: PoloniumDioxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * PoloniumDioxide is the RWO for the molecule polonium dioxide with the CAS number 7446-06-2.
  *

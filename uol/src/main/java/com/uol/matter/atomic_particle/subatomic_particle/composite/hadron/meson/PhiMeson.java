@@ -6,15 +6,6 @@ import com.uol.matter.atomic_particle.subatomic_particle.SubatomicParticle;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.StrangeAntiquark;
 import com.uol.matter.atomic_particle.subatomic_particle.elementary.fermion.quark.StrangeQuark;
 
-/*
- * RWO: PhiMeson
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								25/12/2018
- * RandomCatGit					Modified compositeParticles init		11/03/2022
- */
-
 /**
  * PhiMeson is a vector meson formed of a {@linkplain StrangeQuark} and a {@linkplain StrangeAntiquark}.
  *

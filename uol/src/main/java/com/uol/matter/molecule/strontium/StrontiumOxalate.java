@@ -2,14 +2,6 @@ package com.uol.matter.molecule.strontium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: StrontiumOxalate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * StrontiumOxalate is the RWO for the molecule strontium oxalate with the CAS number 814-95-9.
  *

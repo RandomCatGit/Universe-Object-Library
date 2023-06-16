@@ -2,14 +2,6 @@ package com.uol.organism.cell.multi_cell.eukaryote.animal;
 
 import com.uol.organism.cell.Cell;
 
-/*
- * RWO: BrownFatCell
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								23/10/2019
- */
-
 /**
  * BrownFatCell or plurivacuolar cells are polyhedral in shape. Unlike white fat cells, these cells have considerable
  * cytoplasm, with lipid droplets scattered throughout. The nucleus is round, and, although eccentrically located, it is

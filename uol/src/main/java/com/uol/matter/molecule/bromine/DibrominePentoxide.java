@@ -2,14 +2,6 @@ package com.uol.matter.molecule.bromine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: DibrominePentoxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * DibrominePentoxide is the RWO for the molecule dibromine pentoxide with the CAS number 58572-43-3.
  *

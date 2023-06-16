@@ -2,14 +2,6 @@ package com.uol.matter.molecule.iodine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: IodineMonochloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * IodineMonochloride is the RWO for the molecule Iodine monochloride with the CAS number 7790-99-0.
  *

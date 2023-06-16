@@ -2,14 +2,6 @@ package com.uol.matter.molecule.neodymium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Neodymium_III_Iodide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Neodymium_III_Iodide is the RWO for the molecule neodymium(III) iodide .
  *

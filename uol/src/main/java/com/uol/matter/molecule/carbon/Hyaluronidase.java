@@ -2,14 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Hyaluronidase
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								09/02/2019
- */
-
 /**
  * Hyaluronidase is the RWO for the molecule hyaluronidase with the CAS number 488712-31-8.
  *

@@ -1,13 +1,5 @@
 package com.uol.organism.cell.organelle;
 
-/*
- * RWO: Cutan
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								20/02/2020
- */
-
 /**
  * Cutan is one of two biopolymers which occur in the cuticle of some plants. The other and better-known polymer is
  * cutin.

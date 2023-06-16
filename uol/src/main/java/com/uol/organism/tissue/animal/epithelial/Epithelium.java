@@ -7,14 +7,6 @@ import com.uol.organism.tissue.Tissue;
 
 import lombok.Getter;
 
-/*
- * RWO: Epithelium
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								22/10/2019
- */
-
 /**
  * Epithelium is one of the four basic types of animal tissue. Epithelial tissues line the outer surfaces of organs and
  * blood vessels throughout the body, as well as the inner surfaces of cavities in many internal organs.

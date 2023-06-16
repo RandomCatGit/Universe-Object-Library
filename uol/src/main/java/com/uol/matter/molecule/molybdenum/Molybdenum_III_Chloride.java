@@ -2,14 +2,6 @@ package com.uol.matter.molecule.molybdenum;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Molybdenum_III_Chloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Molybdenum_III_Chloride is the RWO for the molecule molybdenum(III) chloride with the CAS number 13478-18-7.
  *

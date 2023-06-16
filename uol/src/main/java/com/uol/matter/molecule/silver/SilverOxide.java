@@ -2,14 +2,6 @@ package com.uol.matter.molecule.silver;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: SilverOxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * SilverOxide is the RWO for the molecule silver oxide with the CAS number 1301-96-8.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.silicon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Quartz
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Quartz is the RWO for the molecule quartz with the CAS number 7631-86-9.
  *

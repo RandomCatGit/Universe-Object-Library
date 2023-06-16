@@ -2,14 +2,6 @@ package com.uol.matter.molecule.tungsten;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Tungsten_VI_Oxytetrabromide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Tungsten_VI_Oxytetrabromide is the RWO for the molecule tungsten(VI) oxytetrabromide with the CAS number 13520-77-9.
  *

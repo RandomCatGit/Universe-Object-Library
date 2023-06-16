@@ -2,14 +2,6 @@ package com.uol.matter.molecule.ytterbium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Ytterbium_II_Chloride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Ytterbium_II_Chloride is the RWO for the molecule ytterbium(II)chloride with the CAS number 13874-77-6.
  *

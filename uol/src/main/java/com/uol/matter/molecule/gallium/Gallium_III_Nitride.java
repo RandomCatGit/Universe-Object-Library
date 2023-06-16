@@ -2,14 +2,6 @@ package com.uol.matter.molecule.gallium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Gallium_III_Nitride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Gallium_III_Nitride is the RWO for the molecule gallium(III) nitride with the CAS number 25617-97-4.
  *

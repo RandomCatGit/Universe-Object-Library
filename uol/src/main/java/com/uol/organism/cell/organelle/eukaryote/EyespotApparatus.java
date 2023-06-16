@@ -2,14 +2,6 @@ package com.uol.organism.cell.organelle.eukaryote;
 
 import com.uol.organism.cell.organelle.Organelle;
 
-/*
- * RWO: EyespotApparatus
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								30/01/2019
- */
-
 /**
  * EyespotApparatus is a photoreceptive organelle found in the flagellate or (motile) cells of green algae and other
  * unicellular photosynthetic organisms such as euglenids. It allows the cells to sense light direction and intensity

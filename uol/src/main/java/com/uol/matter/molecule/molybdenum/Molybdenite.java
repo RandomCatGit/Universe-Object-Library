@@ -2,14 +2,6 @@ package com.uol.matter.molecule.molybdenum;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Molybdenite
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Molybdenite is the RWO for the molecule molybdenite with the CAS number 1317-33-5.
  *

@@ -2,14 +2,6 @@ package com.uol.matter.molecule.chromium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Chromium_III_Nitrate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Chromium_III_Nitrate is the RWO for the molecule chromium(III) nitrate with the CAS number 13548-38-4.
  *

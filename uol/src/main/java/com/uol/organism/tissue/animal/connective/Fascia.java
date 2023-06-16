@@ -2,14 +2,6 @@ package com.uol.organism.tissue.animal.connective;
 
 import com.uol.organism.tissue.Tissue;
 
-/*
- * RWO: Fascia
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								24/10/2019
- */
-
 /**
  * Fascia is a band or sheet of connective tissue, primarily collagen, beneath the skin that attaches, stabilizes,
  * encloses, and separates muscles and other internal organs.

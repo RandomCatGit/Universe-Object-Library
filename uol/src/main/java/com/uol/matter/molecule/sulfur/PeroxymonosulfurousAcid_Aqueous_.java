@@ -2,14 +2,6 @@ package com.uol.matter.molecule.sulfur;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: PeroxymonosulfurousAcid_Aqueous_
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * PeroxymonosulfurousAcid_Aqueous_ is the RWO for the molecule peroxymonosulfurous acid (aqueous).
  *

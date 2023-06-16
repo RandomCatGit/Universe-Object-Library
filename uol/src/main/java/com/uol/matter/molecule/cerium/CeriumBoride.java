@@ -2,14 +2,6 @@ package com.uol.matter.molecule.cerium;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: CeriumBoride
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * CeriumBoride is the RWO for the molecule cerium boride with the CAS number 12008-02-5.
  *

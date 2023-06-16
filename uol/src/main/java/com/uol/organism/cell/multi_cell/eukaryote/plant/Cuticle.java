@@ -6,14 +6,6 @@ import com.uol.organism.cell.Cell;
 import com.uol.organism.cell.organelle.Cutan;
 import com.uol.organism.cell.organelle.Cutin;
 
-/*
- * RWO: Cuticle
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								20/02/2020
- */
-
 /**
  * Cuticle is a protecting film covering the epidermis of leaves, young shoots and other aerial plant organs without
  * periderm. It consists of lipid and hydrocarbon polymers impregnated with wax, and is synthesized exclusively by the

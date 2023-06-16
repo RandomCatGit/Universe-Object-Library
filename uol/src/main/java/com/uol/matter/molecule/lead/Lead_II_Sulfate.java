@@ -2,14 +2,6 @@ package com.uol.matter.molecule.lead;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: Lead_II_Sulfate
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * Lead_II_Sulfate is the RWO for the molecule lead(II) sulfate with the CAS number 7446-14-2.
  *

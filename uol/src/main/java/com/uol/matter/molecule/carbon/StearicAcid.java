@@ -2,15 +2,6 @@ package com.uol.matter.molecule.carbon;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: StearicAcid
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- * RandomCatGit					Removed duplicate						20/02/2020
- */
-
 /**
  * StearicAcid is the RWO for the molecule stearic acid with the CAS number 57-11-4.
  *

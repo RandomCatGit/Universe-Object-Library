@@ -2,14 +2,6 @@ package com.uol.matter.molecule.fluorine;
 
 import com.uol.matter.molecule.Molecule;
 
-/*
- * RWO: TungstenTetrafluorideOxide
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWO								15/01/2019
- */
-
 /**
  * TungstenTetrafluorideOxide is the RWO for the molecule tungsten tetrafluoride oxide with the CAS number 13520-79-1.
  *

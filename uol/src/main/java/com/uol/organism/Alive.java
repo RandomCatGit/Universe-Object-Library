@@ -4,14 +4,6 @@ import com.uol.UniverseObjectLibrary;
 
 import lombok.EqualsAndHashCode;
 
-/*
- * RWP: Alive
- * 
- * Author 						Description 							Date
- * --------------------------------------------------------------------------------
- * RandomCatGit					Created RWP								18/05/2019
- */
-
 /**
  * Alive is the RWP class of common properties of all living organisms.
  *
